@@ -7,6 +7,9 @@ some more text
 
 Let's try to [add a link](http://www.google.om)
 
+1. One star (*) means itali
+2. Two stars (**) means **bold**
+
 Good kinds of pancakes:
 * Okonomiyaki
 * * Dorayaki

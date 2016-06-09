@@ -1,20 +1,17 @@
-# foundations-homework
+# Foundations homework
 
-## title 2
-### title 3
-#### title 4
-some more text
+## About
 
-Let's try to [add a link](http://www.google.om)
+This repository contains exercises for the [“Lede 12”](https://github.com/ledeprogram/) summer program at Columbia University.
 
-1. One star (\*) means italic
-2. Two stars (\*\*) means **bold**
+## Interesting facts
 
 Good kinds of pancakes:
 * Okonomiyaki
 * * Dorayaki
 * * Silver dollars
 * * Injera
+
 * ### Some other test
 * We are doing *some stuff right here*
 * We are doing **some other stuff**

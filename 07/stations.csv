@@ -1,0 +1,755 @@
+didok;station_name;accessible_ticket;accessible_wc;rollstuhl_verlad;mobilift;stepless_perron;bats;autelca;automat_ktu;geopos;TUNummer;Betriebspunkttyp
+10;Basel SBB;1;1;1;1;1;10 Min. Übergangszeit für Züge von und nach Frankreich;0;19;47.5474041527, 7.58955146721;1;Haltestelle
+2213;Wohlen;1;1;1;1;1;;0;2;47.3484618374, 8.26978121872;1;Haltestelle_und_Bedienpunkt
+2116;Schinznach Bad;0;0;0;0;0;;0;1;47.4517752695, 8.16692832223;1;Haltestelle
+2211;Hendschiken;1;0;1;0;0;;0;1;47.3894242237, 8.20737399629;1;Haltestelle
+2226;Knonau;0;0;0;1;1;;0;1;47.2202591199, 8.4667085831;1;Haltestelle
+3105;Uetikon;0;0;1;1;1;;0;1;47.2590294057, 8.678774746;1;Haltestelle_und_Bedienpunkt
+3015;Zürich Wipkingen;0;0;1;0;0;;0;1;47.3930313233, 8.52935905447;1;Haltestelle
+3112;Kempraten;0;0;0;0;0;;0;1;47.2383929337, 8.81429184846;1;Haltestelle
+3100;Zollikon;0;0;0;0;1;;0;1;47.3373317337, 8.569717612;1;Haltestelle
+3502;Siggenthal-Würenlingen;0;0;0;0;0;Postauto fahren ab Bahnhofplatz;0;1;47.5179218559, 8.24015363326;1;Haltestelle_und_Bedienpunkt
+3505;Wettingen;0;0;1;1;1;Gleise 1, 3, 4 und 5 stufenlos zugänglich.;0;0;47.4596367944, 8.3159863528;1;Haltestelle_und_Bedienpunkt
+3427;Schlatt;0;0;0;0;1;;0;0;47.6795011585, 8.68749675648;1;Haltestelle_und_Bedienpunkt
+3527;Buchs-Dällikon;0;0;0;0;1;;0;1;47.4533973239, 8.43557852512;1;Haltestelle
+3429;Schlattingen;0;0;0;0;1;;0;0;47.6666263051, 8.77041438581;1;Haltestelle
+4007;Moreillon;0;0;0;0;0;;0;1;46.5083872786, 6.78564812794;1;Haltestelle
+2237;Lupfig;0;0;0;1;1;Postautohaltestelle Lupfig Bahnhof = 3 Minuten vom Bahnhof entfernt;0;0;47.4451758366, 8.21496733295;1;Haltestelle_und_Bedienpunkt
+3007;Zürich Seebach;0;0;0;0;1;;0;1;47.4187469105, 8.54463614173;1;Haltestelle_und_Bedienpunkt
+3001;Zürich Altstetten;1;1;1;1;1;;0;2;47.3914808361, 8.4889402654;1;Haltestelle
+2229;Urdorf Weihermatt;0;0;0;0;1;;0;1;47.3809708849, 8.43033031194;1;Haltestelle
+3011;Zürich Wiedikon;0;0;0;0;1;;0;2;47.3714716204, 8.52346258297;1;Haltestelle
+2300;Zug Postplatz;0;0;0;0;1;;0;1;47.168273486, 8.51691604796;1;Haltestelle
+2231;Zug Oberwil;0;0;0;0;1;;0;0;47.147675872, 8.50992153777;1;Haltestelle
+3313;Niederglatt;0;0;0;1;1;;0;1;47.4874689477, 8.50329612568;1;Haltestelle_und_Bedienpunkt
+3316;Steinmaur;0;0;0;0;0;;0;1;47.4899801946, 8.4468407224;1;Haltestelle_und_Bedienpunkt
+3304;Kemptthal;0;0;0;0;0;;0;0;47.452833265, 8.70557069755;1;Haltestelle_und_Bedienpunkt
+3420;Lottstetten;0;0;0;0;1;;0;1;47.6257356296, 8.56680664761;1;Haltestelle
+3409;Bad Zurzach;0;0;1;1;1;;0;1;47.5883101087, 8.29556465398;1;Haltestelle
+3425;Feuerthalen;0;0;0;0;1;;0;0;47.6921636376, 8.64595208918;1;Haltestelle
+3421;Jestetten;0;0;0;0;1;;0;1;47.6544006039, 8.57327389271;1;Haltestelle
+3414;Mellikon;0;0;0;0;1;;0;0;47.5684839744, 8.35249723256;1;Haltestelle
+2113;Aarau;1;1;1;1;1;"PTT/BBA ab Bahnhofplatz;; WSB ab Geleise 11-13";0;10;47.3913553369, 8.05125354274;1;Haltestelle_und_Bedienpunkt
+2105;Othmarsingen;0;0;1;0;0;;0;1;47.4074269011, 8.21478836445;1;Haltestelle_und_Bedienpunkt
+2025;Baldegg;0;0;0;1;0;;0;1;47.1856838433, 8.28020982028;1;Haltestelle_und_Bedienpunkt
+2012;Rothenburg Dorf;0;0;0;0;1;;0;1;47.0909062076, 8.27317678808;1;Haltestelle
+2008;Nottwil;0;0;1;1;1;;0;1;47.1388047171, 8.13858805823;1;Haltestelle
+3301;Pfäffikon ZH;0;0;1;1;1;;0;2;47.3670842127, 8.78477640275;1;Haltestelle_und_Bedienpunkt
+3303;Illnau;0;0;0;1;1;;0;1;47.4088192343, 8.72270382261;1;Haltestelle_und_Bedienpunkt
+3234;Nidfurn-Haslen;0;0;0;0;0;;0;1;46.9858964537, 9.05925879887;1;Haltestelle
+3139;Tann-Dürnten;0;0;0;0;1;;0;0;47.2683703417, 8.85270412923;1;Haltestelle
+3235;Leuggelbach;0;0;0;0;0;;0;1;46.9757415966, 9.04692465402;1;Haltestelle
+3232;Mitlödi;0;0;0;0;0;;0;1;47.0101282312, 9.08119403324;1;Haltestelle
+3115;Schmerikon;0;0;0;0;0;;0;1;47.2251558732, 8.94336741805;1;Haltestelle
+3136;Fischenthal;0;0;0;0;1;;0;0;47.333298028, 8.92327465614;1;Haltestelle
+3117;Kaltbrunn;0;0;0;0;0;;0;1;47.2179781456, 9.02241755712;1;Haltestelle
+3122;Bubikon;0;0;1;1;1;;0;1;47.2708395927, 8.82270102308;1;Haltestelle
+3113;Blumenau;0;0;0;0;0;;0;0;47.2236693254, 8.84238332851;1;Haltestelle
+4014;Palézieux;1;1;1;1;1;Trains TPF, bus TPF et bus La Poste sur la place de la gare;0;2;46.5427523751, 6.83787768542;1;Haltestelle_und_Bedienpunkt
+4025;Chénens;0;0;0;0;0;;0;1;46.7492007014, 7.00043211139;1;Haltestelle_und_Bedienpunkt
+204;Selzach;0;0;0;0;1;Altreu BSG zu Fuss 20 Minuten;0;1;47.2006188377, 7.45662984225;1;Haltestelle
+208;Luterbach-Attisholz;0;0;0;0;0;;0;1;47.2171432544, 7.58351524915;1;Haltestelle_und_Bedienpunkt
+200;Pieterlen;0;0;0;0;1;;0;1;47.1714342219, 7.34019009864;1;Haltestelle_und_Bedienpunkt
+203;Bettlach;0;0;0;0;0;;0;1;47.1949438967, 7.42836206864;1;Haltestelle
+143;Grandgourt;;;;;;;;;47.4699139104, 7.0480940862;1;Haltestelle
+1506;Sion;1;1;1;1;1;tous les bus partent de la place de la gare;0;4;46.2275453615, 7.35919185191;1;Haltestelle_und_Bedienpunkt
+1425;Evouettes, Les;0;0;0;0;1;non desservi;0;0;46.3628591884, 6.87946504066;1;Haltestelle
+1505;Ardon;0;0;1;1;1;;0;0;46.2085842921, 7.27094418819;1;Haltestelle_und_Bedienpunkt
+1507;St-Léonard;0;0;0;0;1;;0;1;46.2514824986, 7.41957042997;1;Haltestelle
+1601;Leuk;1;1;1;1;1;;0;2;46.3118851335, 7.64394777254;1;Haltestelle
+101;Reconvilier;0;0;0;0;1;car postal sur la place de la gare;0;1;47.2352248694, 7.22741061293;1;Haltestelle_und_Bedienpunkt
+22;Frenkendorf-Füllinsdorf;0;0;0;1;1;;0;2;47.501457047, 7.71909156777;1;Haltestelle_und_Bedienpunkt
+20;Muttenz;0;0;1;1;1;;0;2;47.5335803903, 7.64787914262;1;Haltestelle_und_Bedienpunkt
+33;Rümlingen;0;0;0;0;1;;0;1;47.4253702718, 7.85052282001;1;Haltestelle
+25;Itingen;0;0;0;0;1;;0;1;47.4672660009, 7.78720690694;1;Haltestelle
+26;Sissach;1;1;1;1;1;;0;3;47.4627456535, 7.81201832437;1;Haltestelle
+1115;Cossonay-Penthalaz;0;0;1;0;0;Funiculaire CG, départ vis-à-vis de la gare;1;2;46.6060023579, 6.5236830353;1;Haltestelle_und_Bedienpunkt
+1112;Chavornay;0;0;0;1;0;Direction Orbe, départ de la place de la gare;0;1;46.7100764779, 6.56816025319;1;Haltestelle_und_Bedienpunkt
+1110;Ependes;0;0;0;0;0;;0;1;46.7464094417, 6.60765826253;1;Haltestelle_und_Bedienpunkt
+1048;Lonay-Préverenges;0;0;0;0;1;;0;1;46.5231229916, 6.51954667355;1;Haltestelle
+1123;Villette VD;0;0;0;0;0;;0;1;46.4953325352, 6.70728469954;1;Haltestelle
+1404;Evionnaz;0;0;0;0;0;;0;1;46.1692425762, 7.02552647988;1;Haltestelle_und_Bedienpunkt
+1303;Villeneuve;0;0;1;1;0;;0;1;46.3983659275, 6.92699984758;1;Haltestelle_und_Bedienpunkt
+1403;St-Maurice;1;1;1;1;1;;0;2;46.216363536, 7.00204915835;1;Haltestelle_und_Bedienpunkt
+1421;Monthey;0;0;1;1;1;;0;2;46.2556458933, 6.9552285472;1;Haltestelle_und_Bedienpunkt
+1200;Vevey;1;1;1;1;1;;0;6;46.4629974303, 6.84345000982;1;Haltestelle_und_Bedienpunkt
+1302;Veytaux-Chillon;0;0;0;0;0;;0;1;46.4176118611, 6.92785847954;1;Haltestelle
+322;Laufenburg;1;1;0;1;1;;0;1;47.5597640916, 8.06127319304;1;Haltestelle_und_Bedienpunkt
+302;Möhlin;0;0;0;0;1;;0;1;47.5618497594, 7.83385418673;1;Haltestelle_und_Bedienpunkt
+1045;Denges-Echandens;0;0;0;0;1;;0;2;46.5291203863, 6.54050855527;1;Haltestelle
+209;Deitingen;0;0;0;0;0;;0;1;47.218217892, 7.61889907416;1;Haltestelle
+220;Dotzigen;0;0;0;1;1;;0;0;47.1186594616, 7.33774490357;1;Haltestelle
+1014;Mies;0;0;0;0;0;;0;1;46.2998757136, 6.1695702204;1;Haltestelle
+102;Malleray-Bévilard;0;0;0;0;1;aucune;0;1;47.2387040498, 7.27593219578;1;Haltestelle
+123;Glovelier;0;0;0;0;1;;0;1;47.3352002384, 7.20929652415;1;Haltestelle_und_Bedienpunkt
+105;Moutier;1;1;1;1;1;;0;2;47.2806661619, 7.38103944266;1;Haltestelle_und_Bedienpunkt
+124;St-Ursanne;0;0;0;0;1;;0;1;47.3676921488, 7.16594419056;1;Haltestelle
+117;Aesch;0;0;0;0;1;;0;1;47.4677359724, 7.60305476436;1;Haltestelle
+2002;Brittnau-Wikon;0;0;0;0;0;;0;1;47.2626629521, 7.95702232358;1;Haltestelle_und_Bedienpunkt
+2001;Zofingen;1;1;1;1;1;;0;2;47.2880447598, 7.94309735295;1;Haltestelle_und_Bedienpunkt
+2005;Nebikon;0;0;0;0;1;;0;1;47.192373647, 7.97744173598;1;Haltestelle_und_Bedienpunkt
+4123;Corcelles-Nord;0;0;0;0;0;;0;1;46.8352524718, 6.96028758905;1;Haltestelle_und_Bedienpunkt
+4120;Moudon;0;0;0;0;1;;0;1;46.6680516436, 6.80250491145;1;Haltestelle_und_Bedienpunkt
+4030;Villars-sur-Glâne;0;0;0;0;0;;0;1;46.7898250195, 7.11638853683;1;Haltestelle
+4105;Niederwangen;0;0;0;0;1;;0;0;46.9255005385, 7.37645035983;1;Haltestelle
+4113;Wünnewil;0;0;0;0;1;;0;0;46.8718587481, 7.28064281004;1;Haltestelle
+4205;Gorgier-St-Aubin;0;0;0;0;1;Accès au quai sans escalier (rampe ou ascenseur) que pour le quai 1;0;1;46.8990652006, 6.78102543256;1;Haltestelle_und_Bedienpunkt
+4209;Colombier;0;0;0;0;0;Accès au quai sans escalier (rampe ou ascenseur) que pour le quai 1;0;1;46.9676392173, 6.84886986434;1;Haltestelle_und_Bedienpunkt
+4221;Neuchâtel;1;1;1;1;1;;0;6;46.9967222076, 6.93570514491;1;Haltestelle_und_Bedienpunkt
+4224;Cressier NE;0;0;0;0;0;;0;1;47.0519392278, 7.0395268329;1;Haltestelle
+4231;Deurres, Les;0;0;0;0;0;;0;0;46.9855183801, 6.899149402;1;Haltestelle
+4413;Suberg-Grossaffoltern;0;0;0;0;0;Perronhöhe 55cm.;0;0;47.0587722765, 7.33899071375;1;Haltestelle_und_Bedienpunkt
+127;Courtemaîche;0;0;0;0;0;;0;1;47.4558625333, 7.05537172567;1;Haltestelle_und_Bedienpunkt
+213;Oberbuchsiten;0;0;0;0;0;;0;1;47.3052431626, 7.77171069136;1;Haltestelle_und_Bedienpunkt
+202;Grenchen Süd;1;1;1;1;1;;0;2;47.1887666151, 7.39817426522;1;Haltestelle_und_Bedienpunkt
+1021;Genthod-Bellevue;0;0;0;0;1;;0;1;46.2567305087, 6.15396312897;1;Haltestelle
+1022;Versoix;0;1;1;0;1;;0;2;46.2797158332, 6.16574632626;1;Haltestelle
+304;Eiken;0;0;0;0;1;;0;1;47.5330359504, 7.98977700634;1;Haltestelle
+1000;Zimeysa;;;;;;;;;46.2212609654, 6.06574042511;1;Haltestelle
+206;Solothurn West;0;0;0;0;0;Busse ab Amthausplatz (5 min.)  Aareschiffstation 10 min.;0;2;47.2067084108, 7.53194511273;1;Haltestelle
+1106;Croy-Romainmôtier;0;0;0;0;0;;0;1;46.6967038907, 6.47811907461;1;Haltestelle_und_Bedienpunkt
+1035;Allaman;0;0;0;0;0;;0;2;46.4757395273, 6.39970400408;1;Haltestelle_und_Bedienpunkt
+1105;Bretonnières;0;0;0;0;0;;0;0;46.7150454119, 6.47473141459;1;Haltestelle
+1023;Coppet;0;0;0;0;1;;0;2;46.3173801033, 6.18783276927;1;Haltestelle
+2103;Suhr;0;1;0;0;1;;0;2;47.3716326855, 8.08227404767;1;Haltestelle_und_Bedienpunkt
+2121;Walterswil-Striegel;0;0;0;0;0;;0;0;47.3199221956, 7.96318642397;1;Haltestelle
+2122;Kölliken Oberdorf;0;0;0;0;0;;0;0;47.3246738705, 8.01907059825;1;Haltestelle
+2112;Schönenwerd SO;0;0;0;0;0;;0;1;47.3714221617, 8.00015594913;1;Haltestelle
+2034;Beinwil am See;0;0;0;0;1;;0;1;47.2672189808, 8.20221962657;1;Haltestelle
+2128;Holderbank AG;0;0;0;0;0;;0;1;47.4286345989, 8.16659869889;1;Haltestelle
+3504;Baden;1;1;1;1;1;Keine Rampe zu Hauptperron 1. Lift in Bahnhofgebäude benützen;0;3;47.476420225, 8.3076927631;1;Haltestelle_und_Bedienpunkt
+3408;Rekingen AG;0;0;0;0;0;P-Verkauf geschlossen;0;0;47.569967429, 8.32711190205;1;Haltestelle_und_Bedienpunkt
+3526;Regensdorf-Watt;0;0;1;1;1;Busbahnhof;0;1;47.4365626396, 8.47206501622;1;Haltestelle_und_Bedienpunkt
+3528;Otelfingen;0;0;0;0;1;;0;1;47.4549348839, 8.38750753521;1;Haltestelle
+4000;Pully-Nord;0;0;0;0;0;;0;1;46.5146692019, 6.65798812442;1;Haltestelle
+3404;Rafz;0;0;0;1;1;;0;1;47.6037893298, 8.54342564763;1;Haltestelle
+4206;Bevaix;0;0;0;0;1;Accès au quai sans escalier (rampe ou ascenseur) que pour le quai 1;0;1;46.9296874014, 6.81167928339;1;Haltestelle
+4208;Boudry;0;0;0;0;1;Accès au quai sans escalier (rampe ou ascenseur) que pour le quai 1;0;1;46.9594442223, 6.83504632593;1;Haltestelle
+4215;Travers;0;0;0;0;1;;0;1;46.9424047306, 6.67656029661;1;Haltestelle_und_Bedienpunkt
+4217;Champ-du-Moulin;0;0;0;0;1;;0;0;46.95990299, 6.77498412319;1;Haltestelle
+4216;Noiraigue;0;0;0;0;1;;0;1;46.9549132858, 6.72179933612;1;Haltestelle
+4204;Vaumarcus;0;0;0;0;1;;0;0;46.8776352286, 6.75758253853;1;Haltestelle
+4220;Neuchâtel-Serrières;0;0;0;0;0;Accès au quai sans escalier (rampe ou ascenseur) que pour le quai 1;0;1;46.9839549788, 6.90335823773;1;Haltestelle
+4234;Chambrelien;0;0;0;0;1;Bus PTT ligne Colombier - Les Grattes de la;0;1;46.9671026797, 6.81225337255;1;Haltestelle
+4227;Ligerz;0;0;0;0;1;LTB part vis-à-vis de la gare;0;1;47.0837604425, 7.13514479553;1;Haltestelle
+4235;Montmollin-Montezillon;0;0;0;0;0;;0;0;46.9913737523, 6.84283726495;1;Haltestelle
+4222;St-Blaise CFF;0;0;0;0;0;;0;1;47.0145655009, 6.98210841908;1;Haltestelle
+4115;Thörishaus Dorf;0;0;0;0;1;Perronhöhe 55cm.;0;0;46.8935602222, 7.35185775872;1;Haltestelle
+4142;Trey;0;0;0;0;0;Quai uniquement côté BV.;0;1;46.7799523516, 6.91624479995;1;Haltestelle
+4130;Yvonand;0;0;0;0;0;;0;1;46.8008635427, 6.74668648053;1;Haltestelle_und_Bedienpunkt
+4131;Cheyres;0;0;0;0;0;;0;1;46.8169390093, 6.78639389651;1;Haltestelle
+5300;Lugano;1;1;1;1;1;"Bus TPL linee 2 e 4 come funicolare per il centro partono dal piazzale della stazione. Autopostali, ARL e bus per Malpensa a 150 m.
+
+La chiave per l'azionamento del montascale è ottenibile eccezionalmente presso la biglietteria di Lugano.
+
+Dal P+R di via Basilea (lungo il marciapiede 4) è possibile accedere 
+ai marciapiedi 4/3 e 2 tramite rampe e quindi senza ostacoli architettonici.";0;5;46.0055057275, 8.94687441524;1;Haltestelle
+4304;Sonceboz-Sombeval;1;1;0;1;1;;0;1;47.1951382943, 7.16875443477;1;Haltestelle_und_Bedienpunkt
+4419;Biel Mett;0;0;0;0;0;;0;1;47.1447131206, 7.27247559035;1;Haltestelle_und_Bedienpunkt
+4305;Corgémont;0;0;0;0;0;;0;1;47.1933880076, 7.14465464697;1;Haltestelle
+4306;Cortébert;0;0;1;0;1;;0;1;47.1893284366, 7.10729623806;1;Haltestelle
+5214;Giubiasco;0;0;1;1;1;;0;2;46.1738183582, 9.00358391238;1;Haltestelle_und_Bedienpunkt
+5302;Melide;0;0;0;0;0;;0;1;45.9557228958, 8.9483527013;1;Haltestelle
+1114;Eclépens;0;0;0;0;1;Non-occupée;0;1;46.6571840947, 6.55242099774;1;Haltestelle_und_Bedienpunkt
+1424;Vouvry;0;0;0;0;1;non desservi;0;0;46.3372911702, 6.89757423459;1;Haltestelle
+1602;Turtmann;0;0;0;0;0;;0;1;46.3093240882, 7.69960071796;1;Haltestelle_und_Bedienpunkt
+1203;Clarens;0;0;0;0;0;;0;2;46.442731817, 6.895777987;1;Haltestelle_und_Bedienpunkt
+1300;Montreux;1;1;1;1;1;;0;4;46.4358743527, 6.91043275261;1;Haltestelle
+1405;Vernayaz;0;0;0;0;0;;0;1;46.1385417213, 7.038363732;1;Haltestelle
+115;Grellingen;0;0;0;0;1;Nur Gleis 2 mit stufenlosem Perronzugang;0;1;47.4412906001, 7.59198326877;1;Haltestelle_und_Bedienpunkt
+27;Gelterkinden;1;1;1;1;1;Postauto ab Bahnhofplatz;0;3;47.4658812396, 7.84765271265;1;Haltestelle
+21;Pratteln;0;0;1;1;1;;0;2;47.522657608, 7.69080243836;1;Haltestelle_und_Bedienpunkt
+104;Court;0;0;0;0;0;;0;1;47.2405870125, 7.34209529907;1;Haltestelle_und_Bedienpunkt
+1033;Rolle;0;0;1;0;0;Bus PTT et Bus ARG de la place de la gare + port CGN à 1500m.;0;2;46.4627356609, 6.3364081818;1;Haltestelle_und_Bedienpunkt
+2017;Waldibrücke;0;0;0;0;1;;0;0;47.1078933281, 8.31968694103;1;Haltestelle_und_Bedienpunkt
+2020;Rothenburg;0;0;0;0;0;;0;0;47.0881904457, 8.24917741374;1;Haltestelle_und_Bedienpunkt
+1609;Brig;1;1;1;1;1;;0;3;46.3194210071, 7.98809158467;1;Haltestelle_und_Bedienpunkt
+2003;Reiden;0;0;1;1;0;;0;1;47.2414629092, 7.96875676951;1;Haltestelle
+2218;Sins;0;0;0;0;0;ZVB + BSF ab Bahnhofplatz;0;1;47.188308281, 8.39780794584;1;Haltestelle_und_Bedienpunkt
+2201;Gisikon-Root;0;0;0;0;1;;0;1;47.1213263146, 8.39477668629;1;Haltestelle_und_Bedienpunkt
+2200;Ebikon;0;0;1;0;1;;0;1;47.08425714, 8.34234535321;1;Haltestelle_und_Bedienpunkt
+2306;Hünenberg Chämleten;0;0;0;0;1;;0;0;47.1691518563, 8.44989778178;1;Haltestelle
+2208;Horgen Oberdorf;0;0;0;0;0;;0;1;47.2587470381, 8.58980260632;1;Haltestelle
+2221;Birmensdorf ZH;0;0;0;0;0;;0;1;47.3574317945, 8.4375437434;1;Haltestelle
+3230;Glarus;1;1;1;1;1;max. 1 Rollstuhl- Ein- oder Auslad pro Zug;0;2;47.0399200317, 9.0715516467;1;Haltestelle_und_Bedienpunkt
+3206;Wädenswil;1;1;1;1;1;;0;2;47.2293011038, 8.67519275897;1;Haltestelle_und_Bedienpunkt
+3200;Kilchberg;0;0;1;1;1;;0;1;47.3244274064, 8.54799908563;1;Haltestelle_und_Bedienpunkt
+3228;Netstal;0;0;0;1;0;;0;1;47.0645276001, 9.05942421662;1;Haltestelle_und_Bedienpunkt
+3309;Kloten Balsberg;0;0;0;0;0;;0;1;47.4422864693, 8.57070137795;1;Haltestelle
+3010;Zürich Enge;0;0;1;1;1;Lift zu Gleis 2 von Brücke Bederstrasse aus direkt auf Gleis 2;0;2;47.3640983597, 8.53080595476;1;Haltestelle
+3006;Zürich Oerlikon;1;1;1;1;1;;0;8;47.4115288802, 8.54411523121;1;Haltestelle_und_Bedienpunkt
+3107;Stäfa;0;0;1;0;1;;0;2;47.2405237212, 8.72163122186;1;Haltestelle_und_Bedienpunkt
+3020;Zürich Hardbrücke;0;0;0;1;1;;0;2;47.3851946908, 8.51710646094;1;Haltestelle
+3009;Zürich Wollishofen;0;0;0;0;0;;0;1;47.3474399219, 8.53358828018;1;Haltestelle
+3008;Zürich Affoltern;0;0;0;0;1;;0;1;47.4209123371, 8.5085656936;1;Haltestelle
+3147;Stettbach;0;0;0;1;1;"Tram 7
+Busse 743, 744, 751, 752, 760, 787, 796";0;2;47.3972121248, 8.59613281648;1;Haltestelle
+3128;Dübendorf;0;0;0;0;1;;0;2;47.4000750283, 8.62340719058;1;Haltestelle_und_Bedienpunkt
+3110;Rapperswil;1;1;1;1;1;;0;3;47.2248877672, 8.81673057998;1;Haltestelle_und_Bedienpunkt
+3109;Feldbach;0;0;0;0;0;;0;1;47.2391975436, 8.78348281363;1;Haltestelle
+3119;Schänis;0;0;0;0;0;;0;1;47.1576544109, 9.04396432715;1;Haltestelle
+3319;Niederweningen;0;1;1;0;0;Alle Buslinien verkehren ab Bahnhofplatz;0;1;47.5111974542, 8.36960718376;1;Haltestelle_und_Bedienpunkt
+3311;Rümlang;0;0;1;0;1;;0;1;47.4540663116, 8.53274503651;1;Haltestelle_und_Bedienpunkt
+3401;Glattfelden;0;0;0;0;1;;0;0;47.5485571928, 8.52403632788;1;Haltestelle
+4023;Romont;1;1;1;1;1;départ des bus sur la place de la gare;0;2;46.6935017507, 6.91181476775;1;Haltestelle_und_Bedienpunkt
+4017;Châtillens;0;0;0;0;0;;0;1;46.5705277674, 6.81548498756;1;Haltestelle_und_Bedienpunkt
+4018;Ecublens-Rue;0;1;1;0;0;;0;1;46.6104179611, 6.81105588343;1;Haltestelle_und_Bedienpunkt
+4016;Palézieux-Village;0;0;0;0;0;;0;1;46.5572387745, 6.82834014222;1;Haltestelle
+4040;Corseaux-Cornalles;0;0;0;0;0;;0;0;46.4704453244, 6.8247755489;1;Haltestelle
+4011;Grandvaux;0;0;0;0;0;;0;1;46.4969419201, 6.72264722367;1;Haltestelle
+5006;Schwyz;1;1;1;1;1;"Busse Auto Auto AG Schwyz fahren ab Bushof hinter Kiosk.
+
+Tipp: Für Reisende nach dem Dorfkern von Schwyz ist die Haltestelle Schwyz, Post am Besten (Entfernung ca 2km).";0;2;47.0263942922, 8.63213946703;1;Haltestelle_und_Bedienpunkt
+5007;Brunnen;1;1;1;1;1;Busse in alle Richtungen ab Bahnhofplatz. Schiff-Station: ca. 700m zu Fuss (10min) oder per Bus (nach Brunnen, See);0;2;46.9991749288, 8.61004816648;1;Haltestelle_und_Bedienpunkt
+5004;Arth-Goldau;1;1;1;1;1;Rigibahn fährt ab provisorischer Haltestelle Eichmatt. Bitte Unterführung und Ausgang Süd benutzen.;0;2;47.04915622, 8.54949116322;1;Haltestelle_und_Bedienpunkt
+5000;Luzern;1;1;1;1;1;Gleis 2 sowie 15 verkürzt;0;15;47.0501697679, 8.31017092011;1;Haltestelle_und_Bedienpunkt
+5119;Göschenen;1;1;1;0;0;MGB ab Bahnhofplatz;0;1;46.6658163572, 8.58879659143;1;Haltestelle_und_Bedienpunkt
+5114;Erstfeld;0;0;0;1;1;;0;1;46.8203404742, 8.6504428878;1;Haltestelle_und_Bedienpunkt
+5205;Lavorgo;0;0;0;0;0;;0;0;46.4408978389, 8.83974336723;1;Haltestelle_und_Bedienpunkt
+4441;Studen BE;0;0;0;0;1;;0;0;47.110427547, 7.30173945882;1;Haltestelle
+103;Sorvilier;0;0;0;0;0;;0;1;47.2392372997, 7.30576524542;1;Haltestelle
+37;Trimbach;0;0;0;0;0;;0;0;47.3660466339, 7.90427743742;1;Haltestelle
+28;Tecknau;0;0;0;0;1;;0;1;47.4457572594, 7.88760523024;1;Haltestelle
+3501;Döttingen;0;0;0;1;1;;0;1;47.5752638935, 8.25634387912;1;Haltestelle_und_Bedienpunkt
+4013;Chexbres-Village;0;0;0;0;0;;0;1;46.4810524899, 6.77854229136;1;Haltestelle
+4010;Conversion, La;0;0;0;0;0;;0;1;46.513080116, 6.67832554978;1;Haltestelle
+4003;Bossière;0;0;0;0;0;;0;1;46.5097374876, 6.69932418234;1;Haltestelle
+3410;Rietheim;0;0;0;0;1;;0;0;47.6007474568, 8.27730806919;1;Haltestelle
+3016;Zürich Flughafen;1;1;1;1;1;Zug-Bus mind. 5 Minuten, Zug-Flug mind. 90 Minuten, nach USA&Israel mind. 120 Minuten;0;12;47.4503820775, 8.56238666028;1;Haltestelle
+2224;Affoltern am Albis;1;1;1;1;1;;0;3;47.276064074, 8.44658239143;1;Haltestelle_und_Bedienpunkt
+3127;Schwerzenbach ZH;0;0;1;1;1;;0;2;47.3843802387, 8.6586595992;1;Haltestelle_und_Bedienpunkt
+3111;Winkel am Zürichsee;0;0;0;0;0;;0;1;47.29720073, 8.59897547971;1;Haltestelle
+3106;Männedorf;0;0;1;1;1;;0;2;47.2534223208, 8.69233239506;1;Haltestelle
+2220;Urdorf;0;0;0;1;1;;0;1;47.3908815923, 8.43471362358;1;Haltestelle
+2247;Birr;0;0;0;0;0;;0;1;47.4358394568, 8.21765486787;1;Haltestelle
+2202;Rotkreuz;1;1;1;1;1;"Rotkreuz Süd: Linie 52 (Küntwil), Linie 53 (Küssnacht), Linie 73 (Luzern), Linie 110 (Hochdorf)
+Rotkreuz Nord: Linie 8 (Baar), Linie 28 (Vitznau), Linie 51 (Hünenberg)";0;2;47.1417586665, 8.43047453438;1;Haltestelle_und_Bedienpunkt
+2115;Wildegg;0;0;0;1;0;RBL + PTT auf Bahnhofplatz;0;1;47.4152733765, 8.16299733569;1;Haltestelle_und_Bedienpunkt
+2203;Cham;0;0;1;0;1;ZVB-Busse ab Bahnhofplatz;0;2;47.1782423661, 8.45748408001;1;Haltestelle_und_Bedienpunkt
+2114;Rupperswil;0;0;0;0;1;;0;1;47.4032880043, 8.12694494762;1;Haltestelle_und_Bedienpunkt
+2215;Muri AG;1;1;1;0;1;;0;2;47.2766601869, 8.3397982935;1;Haltestelle_und_Bedienpunkt
+2111;Däniken;0;0;0;0;0;;0;1;47.356386391, 7.97875336334;1;Haltestelle
+2021;Emmenbrücke;0;0;1;1;1;;0;2;47.0705979582, 8.28255105833;1;Haltestelle_und_Bedienpunkt
+2106;Mägenwil;0;0;0;0;0;;0;1;47.4145021864, 8.23513921004;1;Haltestelle_und_Bedienpunkt
+2007;Sursee;1;1;1;1;1;;0;5;47.1707889132, 8.09787795205;1;Haltestelle_und_Bedienpunkt
+2022;Eschenbach;0;0;0;1;1;;0;1;47.1323911487, 8.32277893852;1;Haltestelle
+2101;Kölliken;0;0;0;0;0;;0;1;47.3372920119, 8.0264455205;1;Haltestelle
+1600;Salgesch;0;0;1;0;1;;0;1;46.3094470378, 7.57900756181;1;Haltestelle
+3233;Schwanden;0;0;0;0;1;"Busse Autobetrieb Sernftal auf dem Bahnhofplatz.
+Tel. Autobetrieb Sernftal 055 642 17 17";0;1;46.9968482066, 9.07744743355;1;Haltestelle_und_Bedienpunkt
+3305;Effretikon;1;1;1;1;1;2 Min Bahn - Bus;0;2;47.4258103324, 8.68666226267;1;Haltestelle_und_Bedienpunkt
+3226;Nieder- und Oberurnen;0;0;1;0;1;;0;1;47.122362606, 9.0623744371;1;Haltestelle_und_Bedienpunkt
+3227;Näfels-Mollis;0;1;0;0;1;;0;1;47.0987196928, 9.0699449253;1;Haltestelle_und_Bedienpunkt
+3236;Luchsingen-Hätzingen;0;0;0;0;1;;0;1;46.9650649888, 9.0390086553;1;Haltestelle
+3302;Fehraltorf;0;0;1;1;1;;0;1;47.3851215525, 8.75026509676;1;Haltestelle
+301;Rheinfelden;1;1;1;1;1;Alle Züge fahren ab Gleis 3 oder 4;0;2;47.5512096146, 7.79215393064;1;Haltestelle_und_Bedienpunkt
+303;Mumpf;0;0;0;0;0;Gleis 2 Richtung Stein-S., Gleis 3 Richtung Basel;0;1;47.5476175889, 7.90961301385;1;Haltestelle
+215;Hägendorf;0;0;0;0;0;;0;1;47.3302605109, 7.84380971731;1;Haltestelle_und_Bedienpunkt
+217;Olten Hammer;0;0;0;0;0;;0;0;47.3485517008, 7.8977062126;1;Haltestelle_und_Bedienpunkt
+305;Frick;1;1;0;1;1;;0;2;47.5073437467, 8.01307225263;1;Haltestelle_und_Bedienpunkt
+144;Buix;0;0;0;0;0;;0;1;47.4793218519, 7.02995536103;1;Haltestelle
+218;Olten;1;1;1;1;1;;0;9;47.3519295325, 7.907688105;1;Haltestelle
+1008;Genève;1;1;1;1;1;;0;17;46.2102022669, 6.14245302875;1;Haltestelle_und_Bedienpunkt
+329;Koblenz;0;0;0;1;1;;0;1;47.6003354815, 8.22702315842;1;Haltestelle_und_Bedienpunkt
+313;Rheinfelden Augarten;0;1;0;0;1;;0;0;47.5458662882, 7.76802232018;1;Haltestelle
+1012;Creux-de-Genthod;0;0;0;0;0;;0;0;46.263759507, 6.16132058711;1;Haltestelle
+1013;Pont-Céard;0;0;0;0;1;;0;1;46.287391434, 6.16267245042;1;Haltestelle
+1003;Satigny;0;0;0;1;1;;0;1;46.2142202175, 6.0375091428;1;Haltestelle
+119;Münchenstein;0;1;0;0;1;Tramhaltestelle hinter dem Bahnhof;0;1;47.5133857839, 7.61758557051;1;Haltestelle_und_Bedienpunkt
+126;Porrentruy;1;1;1;1;1;;0;2;47.420909698, 7.08007451034;1;Haltestelle_und_Bedienpunkt
+116;Duggingen;0;0;0;0;1;;0;1;47.4534348999, 7.60344839068;1;Haltestelle
+135;Pontenet;0;0;0;0;0;;0;1;47.2388419265, 7.25415352503;1;Haltestelle
+113;Laufen;1;1;1;1;1;;0;3;47.4193383263, 7.50263030739;1;Haltestelle
+1030;Nyon;1;1;1;1;1;;0;5;46.3844060313, 6.23597429701;1;Haltestelle_und_Bedienpunkt
+1104;Day, Le;0;0;0;0;0;;0;1;46.7172808195, 6.40051340587;1;Haltestelle
+1042;Etoy;0;0;0;0;1;;0;2;46.4751599503, 6.42713908598;1;Haltestelle
+3138;Wald;0;0;0;1;1;"Stufenloser Zugang nur ab Gleis 2 möglich
+
+Postautohaltestelle vor AG (Schalterhalle)";0;1;47.2726849167, 8.91398907071;1;Haltestelle
+3137;Gibswil;0;0;0;0;1;In die Thurbo können Rollstuhlfahrer ohne Hilfe einsteigen.;1;0;47.3137146634, 8.9154940778;1;Haltestelle
+3204;Horgen;0;0;1;1;1;;0;3;47.2614824887, 8.59690458831;1;Haltestelle_und_Bedienpunkt
+3222;Schübelbach-Buttikon;0;0;0;0;0;;0;1;47.1763838553, 8.93876288214;1;Haltestelle
+3205;Au ZH;0;0;1;0;1;;0;1;47.2468165268, 8.6437080619;1;Haltestelle_und_Bedienpunkt
+1125;Epesses;0;0;0;0;0;;0;1;46.4893183671, 6.74516355201;1;Haltestelle
+1107;Arnex;0;0;0;0;0;;0;1;46.6980662731, 6.51890326658;1;Haltestelle
+1124;Cully;0;0;0;0;0;;0;2;46.488550014, 6.72714757327;1;Haltestelle
+1126;Rivaz;0;0;0;0;0;;0;1;46.4741966711, 6.78458954595;1;Haltestelle
+1502;Saxon;0;0;0;0;0;;0;1;46.149376272, 7.17343442478;1;Haltestelle
+3315;Dielsdorf;0;0;1;1;1;Alle Buslinien verkehren ab Buskehrplatz;0;1;47.4824133475, 8.45942183431;1;Haltestelle
+3400;Bülach;1;1;1;1;1;;0;2;47.5239413008, 8.53618858988;1;Haltestelle_und_Bedienpunkt
+3306;Dietlikon;0;0;1;1;1;;0;1;47.4201947418, 8.61925589067;1;Haltestelle
+4024;Villaz-St-Pierre;0;0;0;0;1;;0;1;46.7205784272, 6.96063985388;1;Haltestelle
+4021;Vauderens;0;0;0;0;0;;0;1;46.6214485609, 6.85003132174;1;Haltestelle
+4026;Cottens;0;0;0;0;0;;0;1;46.7512079019, 7.03479684592;1;Haltestelle
+4027;Neyruz;0;0;0;0;1;;0;1;46.7660458572, 7.06503067751;1;Haltestelle
+4019;Bressonnaz;;;;;;;;;46.6531450954, 6.7912628257;1;Haltestelle
+4414;Lyss;1;1;1;1;0;"Gleis 4 und 5: kein stufenloser Perronzugang. 
+Busse ab Bahnhofplatz Gleis 1";0;3;47.0763151407, 7.30629081519;1;Haltestelle_und_Bedienpunkt
+4416;Brügg BE;0;0;0;0;0;SCHIFFSTATION BSG DISTANZ: 400 M;0;0;47.1236283761, 7.27820819072;1;Haltestelle
+4317;Locle-Col-des-Roches, Le;0;0;0;0;1;;0;1;47.0498780241, 6.72606805002;1;Haltestelle_und_Bedienpunkt
+4402;Kallnach;0;0;0;0;0;;0;0;47.0255145356, 7.23518610743;1;Haltestelle_und_Bedienpunkt
+5011;Merlischachen;0;0;0;0;1;;0;0;47.0676559849, 8.40903921336;1;Haltestelle
+4122;Granges-Marnand;0;0;0;0;1;quai intérmédiaire existe mais non conforme.;0;1;46.7588357696, 6.89428928731;1;Haltestelle_und_Bedienpunkt
+4108;Bern Ausserholligen;0;0;0;0;1;Perronhöhe 55cm.;0;0;46.9442050782, 7.40611220257;1;Haltestelle
+4100;Fribourg/Freiburg;1;1;1;1;1;;0;6;46.8032670642, 7.15102324519;1;Haltestelle_und_Bedienpunkt
+4137;Léchelles;0;0;0;0;0;;0;1;46.8284488203, 7.01162043632;1;Haltestelle
+4124;Dompierre;0;0;0;0;0;;0;1;46.8543983208, 6.98535899591;1;Haltestelle
+4300;Biel/Bienne;1;1;1;1;1;;0;10;47.1328920532, 7.24290845288;1;Haltestelle_und_Bedienpunkt
+4301;Frinvillier-Taubenloch;0;0;0;0;0;;0;1;47.1694441249, 7.25752019856;1;Haltestelle
+4311;Sonvilier;0;0;0;0;0;;0;1;47.1413268967, 6.96934420104;1;Haltestelle
+4308;Cormoret;0;0;0;0;0;;0;1;47.1729358067, 7.05412061848;1;Haltestelle
+4309;Villeret;0;0;0;0;0;;0;1;47.1601953195, 7.01967397553;1;Haltestelle
+4226;Neuveville, La;0;0;0;0;1;Bus PTT part de la place de la gare;0;1;47.0628240754, 7.09522000485;1;Haltestelle
+4232;Corcelles-Peseux;0;0;0;0;1;;0;1;46.9833400639, 6.88380561207;1;Haltestelle
+4225;Landeron, Le;0;0;0;0;0;;0;1;47.056626064, 7.06632947231;1;Haltestelle
+4203;Concise;0;0;0;0;0;;1;0;46.8508695027, 6.72316155773;1;Haltestelle
+4141;Henniez;0;0;0;0;0;;0;1;46.7349960085, 6.87010300707;1;Haltestelle_und_Bedienpunkt
+4139;Belfaux CFF;0;0;0;0;1;;0;1;46.8169170976, 7.10622789234;1;Haltestelle
+4201;Grandson;0;0;0;0;0;;0;0;46.8062699548, 6.6419368926;1;Haltestelle
+5113;Altdorf;0;0;1;1;1;Keine Zwischen- und Aussenperron;0;1;46.8757407268, 8.63156572016;1;Haltestelle_und_Bedienpunkt
+5218;Taverne-Torricella;0;0;1;0;0;;0;1;46.0566859524, 8.93032466625;1;Haltestelle_und_Bedienpunkt
+5112;Flüelen;1;1;0;1;1;;0;1;46.9017256462, 8.62429304308;1;Haltestelle_und_Bedienpunkt
+5407;S. Nazzaro;0;0;1;0;1;;0;0;46.1351651392, 8.80705386556;1;Haltestelle
+5307;Chiasso;1;1;1;1;1;;0;2;45.8321788009, 9.03144057629;1;Haltestelle
+6041;Embrach-Rorbas;0;0;0;0;1;;0;1;47.5205878296, 8.5870549795;1;Haltestelle_und_Bedienpunkt
+16;Basel St. Johann;0;0;0;0;1;;0;0;47.5702960042, 7.57251267012;1;Haltestelle_und_Bedienpunkt
+23;Liestal;1;1;1;1;1;stufenloser Zugang PU Süd Sektor C;0;5;47.4844551308, 7.73135468775;1;Haltestelle
+31;Diepflingen;0;0;0;0;1;;0;1;47.4495555927, 7.8377022189;1;Haltestelle
+32;Sommerau;0;0;0;0;1;;0;1;47.4390111569, 7.85146338126;1;Haltestelle
+34;Buckten;0;0;0;0;1;;0;1;47.4089834328, 7.84778618088;1;Haltestelle
+35;Läufelfingen;0;0;0;1;0;;0;1;47.3921249769, 7.85621326784;1;Haltestelle
+100;Tavannes;0;1;0;1;1;"Le guichet de billets est accessible en chaise roulante par le kiosque RELAY, pendant les heures d'ouvertures.
+Quai CJ derrière la gare CFF";0;1;47.2198385551, 7.20163489763;1;Haltestelle_und_Bedienpunkt
+109;Delémont;1;1;1;1;1;"Le car postal départ devant le bâtiment ;La Poste";;0;47.3620006555, 7.35005384248;1;Haltestelle_und_Bedienpunkt
+114;Zwingen;0;1;0;0;1;Postautohaltestelle hinter dem Bahnhof;0;1;47.4337913284, 7.53045708322;1;Haltestelle_und_Bedienpunkt
+118;Dornach-Arlesheim;0;0;1;1;1;;0;2;47.488608339, 7.61110691339;1;Haltestelle_und_Bedienpunkt
+122;Bassecourt;0;0;0;0;1;Le car postal départ devant la gare;0;1;47.3366812155, 7.24684027661;1;Haltestelle
+125;Courgenay;0;0;0;0;1;;0;1;47.4052177358, 7.12419139803;1;Haltestelle
+141;Courchavon;;;;;;;;;47.4397614989, 7.05763565777;1;Haltestelle
+205;Bellach;;;;;;;1;;47.2089019374, 7.50785978776;1;Haltestelle_und_Bedienpunkt
+207;Solothurn;1;1;1;1;1;Nach Wiedlisbach ab Bahnhofplatz;0;5;47.2041807751, 7.54268420304;1;Haltestelle_und_Bedienpunkt
+212;Oensingen;1;1;1;0;1;"OeBB ab Gleis 5/Bahnhofplatz
+Post-/BOGG-/ASM Autokurse ab verschiedenen Abfahrtsorten";0;2;47.2850232125, 7.70985469445;1;Haltestelle_und_Bedienpunkt
+300;Kaiseraugst;0;0;0;0;1;;0;1;47.5384906334, 7.72412101576;1;Haltestelle_und_Bedienpunkt
+1002;Russin;;;;;;;;;46.187771194, 6.01755436893;1;Haltestelle
+1007;Cointrin;;;;;;;;;46.2207092326, 6.09389439216;1;Haltestelle
+1015;Tannay;0;0;0;0;0;;0;1;46.3076341414, 6.18112481111;1;Haltestelle
+1020;Chambésy;0;0;0;0;0;;0;1;46.2423769792, 6.14733924476;1;Haltestelle
+1026;Genève-Aéroport;1;1;1;1;1;;0;7;46.2325293452, 6.11198571992;1;Haltestelle
+1036;St-Prex;0;0;0;0;0;;0;2;46.4823041329, 6.45590462293;1;Haltestelle_und_Bedienpunkt
+1037;Morges;1;1;1;1;1;;0;5;46.5110918027, 6.49396427184;1;Haltestelle_und_Bedienpunkt
+1047;Morges-St-Jean;0;0;0;0;1;;0;2;46.5181892679, 6.50804512989;1;Haltestelle
+1111;Essert-Pittet;0;0;0;0;0;;0;1;46.7276595753, 6.58065762221;1;Haltestelle
+1113;Bavois;0;0;0;0;0;;0;1;46.6876714456, 6.55933195932;1;Haltestelle
+1116;Vufflens-la-Ville;0;0;0;0;0;Non-occupée;0;1;46.5762368388, 6.53076245457;1;Haltestelle_und_Bedienpunkt
+1121;Pully;0;0;1;1;1;;0;2;46.5109189922, 6.65946254087;1;Haltestelle
+1127;St-Saphorin;0;0;0;0;0;;0;1;46.4725855624, 6.7970306112;1;Haltestelle
+1202;Burier;0;0;0;0;1;;0;1;46.4478763825, 6.87711567196;1;Haltestelle
+1301;Territet;0;0;0;0;0;;0;1;46.4263773828, 6.92270212787;1;Haltestelle
+1304;Roche VD;0;0;0;0;0;;0;0;46.3586855943, 6.92704973241;1;Haltestelle_und_Bedienpunkt
+1422;Collombey;0;0;0;0;1;non desservi;0;0;46.2711806973, 6.94875976335;1;Haltestelle
+1423;Vionnaz;0;0;0;0;1;non desservi;0;0;46.3150242286, 6.91620575308;1;Haltestelle
+1428;St-Gingolph (Suisse);0;0;0;0;1;non desservi;0;1;46.3919600075, 6.80589031952;1;Haltestelle
+1500;Martigny;1;1;1;1;1;;0;4;46.1058273015, 7.07912247583;1;Haltestelle_und_Bedienpunkt
+1603;Gampel-Steg;0;0;0;0;0;;0;1;46.3065139347, 7.74757569359;1;Haltestelle_und_Bedienpunkt
+1604;Raron;0;0;0;0;0;;0;1;46.3062732767, 7.80150766492;1;Haltestelle
+2000;Aarburg-Oftringen;0;0;1;1;1;;0;1;47.3202667174, 7.90820373354;1;Haltestelle_und_Bedienpunkt
+2004;Dagmersellen;0;0;0;0;0;Toiletten geschlossen;0;1;47.2175519872, 7.97901545049;1;Haltestelle_und_Bedienpunkt
+2006;Wauwil;0;0;0;0;0;;0;1;47.1838514118, 8.0190083583;1;Haltestelle
+2011;Oberkirch;0;0;0;0;1;;0;1;47.1552315719, 8.11422262548;1;Haltestelle
+2019;Ermensee;0;0;0;0;1;;0;0;47.2296890898, 8.24230319429;1;Haltestelle
+2026;Gelfingen;0;0;0;0;0;;0;1;47.2135545697, 8.26480670843;1;Haltestelle
+2031;Hallwil-Dürrenäsch;0;0;0;0;0;;0;1;47.3286359778, 8.17593763411;1;Haltestelle
+2032;Boniswil;0;0;0;0;0;;0;1;47.3150345145, 8.1845453245;1;Haltestelle
+2033;Birrwil;0;1;0;0;1;Hallwilersee-Marschweg 20 min;0;0;47.2878476573, 8.19899810707;1;Haltestelle
+2102;Oberentfelden;0;1;0;0;1;AAR bus & bahn ab Haltestelle Engelplatz;0;1;47.3564807476, 8.04837791732;1;Haltestelle
+2104;Hunzenschwil;0;0;0;0;1;;0;1;47.3882836417, 8.12567843923;1;Haltestelle_und_Bedienpunkt
+2119;Lenzburg;1;1;1;0;1;Autobus RBL ab Bahnhofplatz;0;4;47.3911934191, 8.17037888645;1;Haltestelle_und_Bedienpunkt
+2120;Küngoldingen;0;0;0;0;0;;0;0;47.3074690567, 7.94198479051;1;Haltestelle
+2205;Walchwil;0;0;0;0;1;;0;1;47.0986827694, 8.51692521124;1;Haltestelle
+2212;Dottikon-Dintikon;0;0;0;0;0;;0;1;47.3736425259, 8.23468774088;1;Haltestelle_und_Bedienpunkt
+2214;Boswil-Bünzen;0;0;0;0;0;;0;1;47.305174603, 8.31527271204;1;Haltestelle
+2222;Bonstetten-Wettswil;0;0;0;0;0;;0;1;47.3258957392, 8.46817514105;1;Haltestelle_und_Bedienpunkt
+3000;Zürich HB;1;1;1;1;1;;0;43;47.3781765756, 8.54019221036;1;Haltestelle
+3004;Zürich Tiefenbrunnen;0;0;1;0;1;Tram/Bus VBZ vis-à-vis Gleis 1;0;1;47.3501235091, 8.56137239898;1;Haltestelle_und_Bedienpunkt
+3101;Küsnacht ZH;0;0;1;0;1;;0;2;47.3191528026, 8.58061588761;1;Haltestelle
+3102;Erlenbach ZH;0;0;1;1;1;;1;0;47.3057853122, 8.59150489466;1;Haltestelle
+3120;Jona;0;0;0;0;0;;0;2;47.230969801, 8.8345980429;1;Haltestelle
+3121;Rüti ZH;0;0;1;1;1;VZO- und BRER - Busse verkehren ab Bahnhofplatz;0;3;47.2604821005, 8.8540677825;1;Haltestelle
+3123;Wetzikon;0;1;1;1;1;;0;3;47.3180331432, 8.79226951209;1;Haltestelle_und_Bedienpunkt
+3124;Aathal;0;0;0;0;1;;0;1;47.3359563788, 8.76561022548;1;Haltestelle
+3125;Uster;1;1;1;1;1;;0;4;47.3503664551, 8.71868854805;1;Haltestelle_und_Bedienpunkt
+3134;Bauma;0;0;1;0;1;;0;1;47.3688358029, 8.87821095251;1;Haltestelle_und_Bedienpunkt
+3202;Thalwil;1;1;1;1;1;Postauto ab Bahnhof, Ortsbus ab Zentrum;0;2;47.2959747213, 8.56475556229;1;Haltestelle_und_Bedienpunkt
+3203;Oberrieden;0;0;0;0;0;;0;1;47.2796754088, 8.57844974795;1;Haltestelle
+3208;Bäch;0;0;0;0;1;;0;1;47.2009791623, 8.72716324608;1;Haltestelle
+3223;Reichenburg;0;0;0;0;0;Postautos fahren ab Güterschuppen;0;1;47.1726951083, 8.98230203354;1;Haltestelle_und_Bedienpunkt
+3225;Ziegelbrücke;1;1;1;1;1;"Bus Niederurnen-Näfels-Filzbach und Weesen-Amden: Ausgang Süd
+Bus Schänis-Kaltbrunn-Benken und Schänis-Bilten-Reichenburg: Ausgang Nord";0;1;47.1361516592, 9.06003718984;1;Haltestelle_und_Bedienpunkt
+3231;Ennenda;0;0;0;0;0;;0;1;47.0329570685, 9.07718226126;1;Haltestelle
+3237;Diesbach-Betschwanden;0;0;0;0;1;;0;1;46.9461769693, 9.02436242331;1;Haltestelle
+3238;Rüti GL;0;0;0;0;1;;0;1;46.934547281, 9.01302543269;1;Haltestelle
+3239;Linthal;0;0;0;0;1;Velovermietung nur bei Linthal Braunwaldbahn;0;1;46.9255699583, 8.99777825107;1;Haltestelle_und_Bedienpunkt
+3307;Bassersdorf;0;0;0;0;1;;0;1;47.4385636372, 8.62619947666;1;Haltestelle
+3312;Oberglatt;0;0;1;1;1;;0;1;47.4702034518, 8.51060488949;1;Haltestelle
+3405;Zweidlen;0;0;0;0;1;;0;0;47.5704402649, 8.46789206212;1;Haltestelle_und_Bedienpunkt
+3413;Kaiserstuhl AG;0;0;0;0;1;;0;0;47.5664464571, 8.41914841526;1;Haltestelle
+3415;Rümikon AG;0;0;0;0;1;;0;1;47.5653831658, 8.37365327646;1;Haltestelle
+3426;Langwiesen;0;0;0;0;1;;0;0;47.6834480371, 8.66229616245;1;Haltestelle
+3525;Otelfingen Golfpark;0;0;0;0;1;;0;0;47.455812722, 8.40209787525;1;Haltestelle
+4015;Vevey-Funi;0;0;0;0;0;;0;0;46.4682716114, 6.8354371001;1;Haltestelle
+4020;Oron;0;0;0;0;1;;0;1;46.5725335165, 6.83710274179;1;Haltestelle
+4028;Rosé;0;0;0;0;0;;0;1;46.7826234886, 7.06196897192;1;Haltestelle_und_Bedienpunkt
+4117;Oberwangen;0;0;0;1;1;;0;0;46.9145625893, 7.36219395114;1;Haltestelle
+4121;Lucens;0;0;0;0;0;;0;1;46.7077668295, 6.84214373406;1;Haltestelle_und_Bedienpunkt
+4138;Grolley;0;1;0;0;0;;0;1;46.8319680926, 7.06605291011;1;Haltestelle_und_Bedienpunkt
+4218;Bôle;0;0;0;0;0;;0;1;46.9689572835, 6.83768561375;1;Haltestelle
+4303;Heutte, La;0;0;0;0;0;;0;1;47.1894830754, 7.22538868069;1;Haltestelle
+4411;Münchenbuchsee;1;1;1;0;1;"Perronhöhe 55cm. 
+
+Postauto-Haltestelle ;Dorf";;0;47.0213694411, 7.45194288392;1;Haltestelle_und_Bedienpunkt
+5002;Küssnacht am Rigi;0;0;1;1;1;Kein schienenfreier Zugang, SGV-Bus ab Bahnhofplatz;0;2;47.0835940036, 8.4334940573;1;Haltestelle
+5003;Immensee;0;0;0;0;0;;0;1;47.0916137781, 8.46266014649;1;Haltestelle
+5005;Steinen;0;0;0;0;0;;0;1;47.0476633004, 8.60743525261;1;Haltestelle
+5201;Airolo;0;0;0;0;0;;0;1;46.5275264817, 8.6086051345;1;Haltestelle_und_Bedienpunkt
+5207;Bodio;0;0;0;0;0;;0;0;46.3802576814, 8.90655905474;1;Haltestelle_und_Bedienpunkt
+5213;Bellinzona;1;1;1;1;0;PTT Schnellkurse nach Chur ab Bahnhofplatz;0;3;46.195436816, 9.02950898687;1;Haltestelle_und_Bedienpunkt
+5217;Mezzovico;0;0;0;0;0;;0;1;46.0942810833, 8.92858485104;1;Haltestelle
+5304;Capolago-Riva S. Vitale;0;0;0;1;1;Bus per Riva, Brusino,Melano,Mendrisio   M.Generoso: Tel 091/648 11 05;0;1;45.9028465135, 8.97889335734;1;Haltestelle
+5305;Mendrisio;1;1;1;0;0;;0;1;45.8691205007, 8.97860209025;1;Haltestelle_und_Bedienpunkt
+24;Lausen;0;0;0;1;1;;0;1;47.470196213, 7.75982160092;1;Haltestelle_und_Bedienpunkt
+38;Basel St. Jakob;0;0;0;0;0;;0;0;47.5426037603, 7.61951652396;1;Haltestelle
+221;Büren an der Aare;0;0;0;0;1;Busse Solothurn u.Lyss/Bern ab Bahnhofplatz. Bus Grenchen ab Zentrum/Hauptstrasse.;0;0;47.1381491319, 7.37122978062;1;Haltestelle
+214;Egerkingen;0;0;0;0;0;Perron 1 überschreiten des Rampengleises nötig;0;1;47.3148575546, 7.79894973749;1;Haltestelle_und_Bedienpunkt
+309;Brugg AG;1;1;1;0;1;Lift zu allen Perron;0;4;47.4808528316, 8.20882744791;1;Haltestelle_und_Bedienpunkt
+216;Wangen bei Olten;0;0;0;0;0;;0;1;47.3413970205, 7.86834787109;1;Haltestelle_und_Bedienpunkt
+320;Stein-Säckingen;0;0;0;0;0;;0;1;47.5415967349, 7.94882272396;1;Haltestelle_und_Bedienpunkt
+1001;Plaine, La;0;0;0;1;0;;0;1;46.1786594705, 5.99999627842;1;Haltestelle_und_Bedienpunkt
+1011;Tuileries, Les;0;0;0;0;0;;0;0;46.2499433407, 6.14734101981;1;Haltestelle
+1006;Meyrin;0;0;0;0;0;;0;1;46.2223320008, 6.0769127207;1;Haltestelle
+1108;Sarraz, La;0;0;0;0;1;"Non-occupée.
+Accès au quai sans escalier (rampe ou ascenseur): seulement voie 1";0;1;46.6587767613, 6.51736524915;1;Haltestelle
+1118;Renens VD;1;1;1;1;0;Pas de personnel disponible en gare !;0;4;46.5370287879, 6.57893884264;1;Haltestelle_und_Bedienpunkt
+1117;Bussigny;0;0;0;0;0;;0;2;46.5475795245, 6.55181947041;1;Haltestelle_und_Bedienpunkt
+1031;Gland;0;0;1;1;1;;0;3;46.419975355, 6.26913801937;1;Haltestelle_und_Bedienpunkt
+1120;Lausanne;1;1;1;1;1;;0;17;46.5167786487, 6.62909314109;1;Haltestelle
+128;Boncourt;0;0;0;0;1;;0;1;47.4926207616, 7.01654285948;1;Haltestelle_und_Bedienpunkt
+210;Wangen an der Aare;0;0;0;0;0;;0;1;47.2319515056, 7.6562236042;1;Haltestelle
+121;Courfaivre;0;0;0;0;0;;0;1;47.3350738097, 7.29115599382;1;Haltestelle
+120;Courtételle;0;0;0;0;0;;0;1;47.3428223281, 7.3179306259;1;Haltestelle
+201;Lengnau;0;0;0;0;0;;0;1;47.1794233382, 7.36654652735;1;Haltestelle
+1400;Aigle;1;1;1;1;1;TPC  et bus départ de la place de la gare;0;4;46.3168441199, 6.9636800936;1;Haltestelle_und_Bedienpunkt
+1426;Bouveret;0;0;0;0;1;non desservi;0;1;46.3858098753, 6.85324188489;1;Haltestelle_und_Bedienpunkt
+1501;Charrat-Fully;0;0;0;0;1;;0;1;46.1268026313, 7.12647773348;1;Haltestelle_und_Bedienpunkt
+1420;Massongex;0;0;0;0;0;;0;1;46.2411990719, 6.98565622637;1;Haltestelle_und_Bedienpunkt
+1201;Tour-de-Peilz, La;0;0;0;1;1;;0;2;46.4554432937, 6.85953018827;1;Haltestelle
+1503;Riddes;0;0;0;0;0;;0;1;46.1725010631, 7.2178509961;1;Haltestelle
+1122;Lutry;;;;;;;1;;46.5037789699, 6.69061164399;1;Haltestelle
+2110;Dulliken;0;0;0;0;0;;0;1;47.3542660407, 7.94648945968;1;Haltestelle_und_Bedienpunkt
+2100;Safenwil;0;0;0;0;0;;0;1;47.32175296, 7.98350900936;1;Haltestelle_und_Bedienpunkt
+2028;Emmenbrücke Gersag;0;0;0;0;0;;0;1;47.0783132004, 8.27679952708;1;Haltestelle
+2204;Zug;1;1;1;1;1;;0;6;47.1736230527, 8.51529569481;1;Haltestelle_und_Bedienpunkt
+2029;Mosen;0;0;0;0;0;;0;1;47.2442873199, 8.22414905535;1;Haltestelle
+2030;Seon;0;1;0;0;1;;0;1;47.3461400227, 8.15878995065;1;Haltestelle
+3209;Pfäffikon SZ;1;1;1;1;1;"Gleis 2/3, 5/6 Perrongleich
+Postauto und Ortsbus ab Busbahnhof hinter Güterschuppen";0;2;47.2029974467, 8.77811068503;1;Haltestelle_und_Bedienpunkt
+3207;Richterswil;0;0;1;1;1;;0;1;47.2083677131, 8.70746042267;1;Haltestelle_und_Bedienpunkt
+3141;Küsnacht Goldbach;0;0;0;0;1;;0;1;47.3268539021, 8.57595174932;1;Haltestelle
+3210;Freienbach SBB;0;0;0;0;1;;1;0;47.2073074882, 8.75619939808;1;Haltestelle
+3201;Rüschlikon;0;0;0;0;0;;0;1;47.3071323847, 8.55515146936;1;Haltestelle
+3135;Steg;0;0;0;0;1;;0;0;47.3538535176, 8.93235901657;1;Haltestelle
+2024;Hochdorf;0;0;0;1;1;"ZVB-Busse und Postauto (Richtung Rotkreuz) beim Bahnhofplatz;; Postauto (Richtung Sempach) durch die Unterführung, Seite Industrie";0;2;47.1669743615, 8.28868696709;1;Haltestelle_und_Bedienpunkt
+2009;Sempach-Neuenkirch;0;0;0;0;0;;0;2;47.1160520887, 8.19596739854;1;Haltestelle_und_Bedienpunkt
+1605;Visp;1;1;1;1;1;;0;3;46.2940248591, 7.88145816487;1;Haltestelle_und_Bedienpunkt
+2010;St. Erhard-Knutwil;0;0;0;0;0;;0;1;47.1800770071, 8.07456185019;1;Haltestelle
+2027;Hitzkirch;0;0;0;0;0;;0;1;47.2226679578, 8.25198154865;1;Haltestelle
+2023;Ballwil;0;0;0;1;0;;0;1;47.1537643847, 8.31688138659;1;Haltestelle
+3129;Wallisellen;0;0;1;1;1;KEINE Ein-/Ausstiegshilfe für Reisende im Rollstuhl. Billettschalter hat nun eine Rampe und ist somit rollstuhlgängig.;0;2;47.4127169827, 8.59191127027;1;Haltestelle_und_Bedienpunkt
+3130;Hinwil;0;0;1;1;1;;0;1;47.3000509, 8.83969785564;1;Haltestelle_und_Bedienpunkt
+3126;Nänikon-Greifensee;0;0;1;1;1;;0;1;47.3693584945, 8.68639971514;1;Haltestelle
+3108;Uerikon;0;1;0;0;0;;0;1;47.2358565197, 8.75261073401;1;Haltestelle
+3118;Benken;0;0;0;0;1;;0;1;47.2044563538, 9.00863107374;1;Haltestelle
+3116;Uznach;1;1;1;1;1;;0;2;47.2242754695, 8.98067539571;1;Haltestelle
+2227;Steinhausen;0;0;0;1;1;Unterführung ca 200m ab AG entfernt;0;1;47.1945798603, 8.47842234624;1;Haltestelle_und_Bedienpunkt
+3003;Zürich Stadelhofen;1;1;1;1;1;Forchbahn (S18) auf Bahnhofplatz;0;6;47.3666105569, 8.54846647022;1;Haltestelle
+3103;Herrliberg-Feldmeilen;0;0;1;0;1;;0;1;47.2818232851, 8.61271954112;1;Haltestelle_und_Bedienpunkt
+3104;Meilen;1;1;1;1;1;;0;2;47.2698122, 8.64429304135;1;Haltestelle_und_Bedienpunkt
+2230;Zug Chollermüli;0;0;0;0;1;;0;1;47.1804713352, 8.48576089261;1;Haltestelle
+2225;Mettmenstetten;0;0;1;1;1;;0;1;47.244071939, 8.45736538581;1;Haltestelle
+2219;Oberrüti;0;0;0;0;0;;0;0;47.1659234421, 8.40476673935;1;Haltestelle_und_Bedienpunkt
+2223;Hedingen;0;0;0;0;0;;0;1;47.2987825148, 8.44595351443;1;Haltestelle_und_Bedienpunkt
+2209;Oberrieden Dorf;0;0;1;0;0;;0;1;47.2767239721, 8.57763334225;1;Haltestelle
+2216;Benzenschwil;0;0;0;0;0;;0;1;47.2468435811, 8.36559619501;1;Haltestelle
+2206;Baar;0;0;1;1;1;;0;3;47.1953625991, 8.52325583517;1;Haltestelle
+2217;Mühlau;0;0;0;0;0;;0;0;47.225014385, 8.3885103326;1;Haltestelle
+1509;Sierre/Siders;1;1;1;1;1;Depart bus PTT/SMC/ place de la Gare;0;3;46.2921149792, 7.53283036255;1;Haltestelle_und_Bedienpunkt
+1510;Châteauneuf-Conthey;0;0;0;0;1;;0;1;46.2161054868, 7.30510604689;1;Haltestelle_und_Bedienpunkt
+1504;Chamoson;0;0;0;0;0;;0;0;46.1888353853, 7.2410985744;1;Haltestelle
+3211;Altendorf;0;0;0;0;1;Aussenperron;0;1;47.193966384, 8.82288898291;1;Haltestelle
+3221;Siebnen-Wangen;0;0;1;0;0;;0;1;47.1826674891, 8.90069892838;1;Haltestelle_und_Bedienpunkt
+3220;Lachen;0;0;1;1;1;;0;2;47.190068574, 8.85269238166;1;Haltestelle_und_Bedienpunkt
+3317;Schöfflisdorf-Oberweningen;0;0;0;0;1;;0;1;47.4979704691, 8.41179388261;1;Haltestelle
+3318;Niederweningen Dorf;0;0;0;0;1;;0;1;47.5059060903, 8.38104986019;1;Haltestelle
+3314;Niederhasli;0;0;0;0;1;;0;1;47.4783287603, 8.48869130494;1;Haltestelle
+5216;Rivera-Bironico;0;0;0;0;0;;0;1;46.1239793633, 8.92528147891;1;Haltestelle_und_Bedienpunkt
+5219;Lamone-Cadempino;0;0;0;0;0;;0;1;46.0397205271, 8.93212223946;1;Haltestelle
+5301;Lugano-Paradiso;0;0;0;0;0;;0;0;45.9889500461, 8.94627572854;1;Haltestelle
+5402;Gordola;0;0;0;0;0;;0;1;46.1790452957, 8.86576625228;1;Haltestelle
+3310;Glattbrugg;0;0;1;0;1;;0;1;47.4308254769, 8.55883224276;1;Haltestelle_und_Bedienpunkt
+3224;Bilten;0;0;0;0;0;;0;1;47.1521909901, 9.02990001736;1;Haltestelle_und_Bedienpunkt
+3300;Kempten;0;0;0;1;0;;0;1;47.3320368667, 8.80470571863;1;Haltestelle_und_Bedienpunkt
+3308;Kloten;0;0;1;0;1;;0;2;47.4486070251, 8.58379121249;1;Haltestelle_und_Bedienpunkt
+3423;Neuhausen;0;0;1;1;1;Mittelperron mit Lift, keine Rampe;0;1;47.683134176, 8.62491498919;1;Haltestelle
+3402;Eglisau;0;0;0;1;1;Gleise 2 und 3 am gleichen Perron;0;1;47.5723728054, 8.51653513851;1;Haltestelle
+3411;Koblenz Dorf;0;0;0;0;1;Haltestelle;0;1;47.6093835703, 8.24013823513;1;Haltestelle
+3403;Hüntwangen-Wil;0;0;0;0;1;;0;1;47.5812668467, 8.51282074899;1;Haltestelle_und_Bedienpunkt
+3424;Schaffhausen;1;1;1;1;1;;0;5;47.6982814692, 8.6327284859;1;Haltestelle_und_Bedienpunkt
+3340;Opfikon;0;0;0;1;1;;0;1;47.4299514492, 8.56176987445;1;Haltestelle
+3508;Dietikon;1;1;1;1;1;Gleise am gleichen Perron 3+4, 5+6, 11+12, Warteraum auf dem Perron, rollstuhlgängig;0;4;47.405777802, 8.40496908474;1;Haltestelle_und_Bedienpunkt
+3428;Diessenhofen;0;0;0;0;1;Fussweg zur Schiffsstation URh 20 Min;0;1;47.6854695764, 8.75227980348;1;Haltestelle_und_Bedienpunkt
+3506;Killwangen-Spreitenbach;0;0;1;0;0;;0;2;47.433328238, 8.35419430986;1;Haltestelle_und_Bedienpunkt
+3509;Schlieren;0;0;1;0;1;;0;1;47.3991743125, 8.44722881452;1;Haltestelle_und_Bedienpunkt
+3512;Glanzenberg;0;0;0;0;1;;0;1;47.3988744293, 8.4204230971;1;Haltestelle
+3511;Neuenhof;0;0;0;0;1;;0;1;47.4506605026, 8.33123368601;1;Haltestelle
+3503;Turgi;0;0;1;1;1;;0;0;47.4917545162, 8.25344123675;1;Haltestelle
+4012;Puidoux-Chexbres;0;0;0;1;1;;0;1;46.493832083, 6.76568624893;1;Haltestelle_und_Bedienpunkt
+3529;Würenlos;0;0;0;0;1;;0;1;47.4457585301, 8.35764331882;1;Haltestelle
+4022;Siviriez;0;0;0;0;0;;0;1;46.6563151488, 6.88380178135;1;Haltestelle
+4029;Matran;0;0;0;0;0;;0;1;46.7889298851, 7.09632979027;1;Haltestelle
+4316;Locle, Le;1;1;0;0;1;"Stufenloser Perronzugang (Lift/Rampe) gilt nur für Gleis 1
+L'accès au quai sans escaliers ne peut se faire que sur le quai 1";1;0;47.0578541411, 6.74615360469;1;Haltestelle
+4403;Bargen;0;0;0;0;1;Perronhöhe 55cm;0;0;47.0401568899, 7.26116993007;1;Haltestelle
+4415;Busswil;0;0;0;0;0;;0;0;47.0986722307, 7.31861716108;1;Haltestelle_und_Bedienpunkt
+4401;Fräschels;0;0;0;0;1;Perronhöhe 55cm;0;0;46.9991211759, 7.20603252578;1;Haltestelle
+4302;Reuchenette-Péry;0;0;0;0;1;;0;1;47.1897281967, 7.24701400432;1;Haltestelle_und_Bedienpunkt
+4310;St-Imier;0;1;1;1;1;;0;1;47.151698154, 7.00121493749;1;Haltestelle_und_Bedienpunkt
+4315;Crêt-du-Locle, Le;0;0;0;0;1;;0;1;47.0775941385, 6.78517707886;1;Haltestelle
+4200;Yverdon-les-Bains;1;1;1;1;1;;0;5;46.781876671, 6.64114576153;1;Haltestelle_und_Bedienpunkt
+4125;Domdidier;0;0;0;0;0;;0;1;46.8685046705, 7.01138032832;1;Haltestelle_und_Bedienpunkt
+4144;Yverdon-Champ Pittet;0;0;0;0;0;;0;0;46.7821397658, 6.66231740717;1;Haltestelle
+4140;Muntelier-Löwenberg;0;0;0;0;1;;0;0;46.9379712009, 7.1332527806;1;Haltestelle
+4135;Corcelles-Sud;0;0;0;0;0;;0;1;46.8288436102, 6.9571860007;1;Haltestelle
+4136;Cousset;0;0;0;0;0;;0;1;46.8186006837, 6.97748421108;1;Haltestelle
+5303;Maroggia-Melano;0;0;0;0;0;PTT piazzale staz. davanti al sottoparsaggio;0;1;45.9324428303, 8.97393689235;1;Haltestelle_und_Bedienpunkt
+5209;Biasca;0;0;1;1;1;Carico sedia a rotelle solo su avviso/prenotazione;0;2;46.351982918, 8.97416705214;1;Haltestelle_und_Bedienpunkt
+5212;Castione-Arbedo;0;0;0;0;1;;0;1;46.2252573555, 9.04139950613;1;Haltestelle_und_Bedienpunkt
+5400;Locarno;1;1;1;1;1;;0;4;46.1724273965, 8.80135894865;1;Haltestelle
+6001;Winterthur Grüze;0;0;0;0;0;;0;0;47.4987506397, 8.75103748096;1;Haltestelle_und_Bedienpunkt
+5408;Ranzo-S. Abbondio;0;0;1;1;0;;0;0;46.1169976034, 8.77653228958;1;Haltestelle
+5405;Quartino;0;0;0;0;0;;0;0;46.1513026375, 8.88731923749;1;Haltestelle
+6126;Münsterlingen-Scherzingen;0;0;0;0;1;PTT-Bus ca. 2 min entfernt;0;0;47.6334235783, 9.2269983596;1;Haltestelle
+6132;Tägerwilen-Gottlieben;0;0;0;0;1;;0;0;47.6596173652, 9.13295927882;1;Haltestelle_und_Bedienpunkt
+6136;Steckborn;0;0;0;0;1;;0;1;47.6645058687, 8.98100858061;1;Haltestelle_und_Bedienpunkt
+6127;Bottighofen;0;0;0;0;1;;0;0;47.6407078714, 9.21308178053;1;Haltestelle
+6202;Dietfurt;0;0;0;0;1;;0;1;47.3445497083, 9.07830029592;1;Haltestelle
+6125;Altnau;0;0;0;0;1;;0;0;47.6213657537, 9.26589677408;1;Haltestelle
+6048;Marthalen;0;0;0;0;1;"Postauto ab Bahnhofplatz. 
+Perron 2 mit Rollstuhl nur sehr schwer erreichbar (steile Rampe). Perron 1 (Hauptperron) kein Problem.";0;1;47.6310755053, 8.65609788009;1;Haltestelle_und_Bedienpunkt
+6104;Märstetten;0;0;0;0;1;;0;1;47.5828184065, 9.0621817582;1;Haltestelle_und_Bedienpunkt
+6047;Andelfingen;0;1;1;0;1;;0;1;47.5937589886, 8.67797953564;1;Haltestelle
+6036;Reutlingen;0;0;0;0;1;;0;0;47.5296543857, 8.75213281727;1;Haltestelle
+6023;Ossingen;0;0;0;1;1;;0;0;47.6146106042, 8.72409330368;1;Haltestelle
+6010;Sirnach;0;0;1;1;1;Busbetrieb Ostschweiz ab Bahnhof in Richtungen Wil SG, Fischingen + Bichelsee;0;1;47.4619919682, 9.00045935104;1;Haltestelle
+6016;Oberwinterthur;0;0;0;0;1;;0;1;47.5079184546, 8.76037093131;1;Haltestelle_und_Bedienpunkt
+6022;Thalheim-Altikon;0;0;0;0;1;;0;0;47.5696197047, 8.75762721172;1;Haltestelle_und_Bedienpunkt
+6011;Eschlikon;0;0;0;0;1;;0;1;47.4614892248, 8.95851470682;1;Haltestelle_und_Bedienpunkt
+6007;Turbenthal;0;0;0;0;1;;0;1;47.437383413, 8.84380329191;1;Haltestelle
+6302;St. Gallen;1;1;1;1;1;Nebenbahnhof für Trogenerbahn und Appenzellerbahn;0;9;47.4231790668, 9.36987712043;1;Haltestelle_und_Bedienpunkt
+6305;Goldach;0;0;1;1;1;;0;2;47.4737971116, 9.46699032646;1;Haltestelle_und_Bedienpunkt
+6208;Uzwil;1;1;1;1;1;;0;3;47.4364421946, 9.13097170762;1;Haltestelle_und_Bedienpunkt
+6206;Wil;1;1;1;1;1;;0;6;47.4624092373, 9.04098327921;1;Haltestelle_und_Bedienpunkt
+16161;Bern Wankdorf;0;0;0;0;1;Perronhöhe 55cm;0;0;46.9678193517, 7.46546497644;1;Haltestelle
+17131;Pratteln Salina Raurica;0;1;0;0;1;;0;0;47.5305742249, 7.70986947527;1;Haltestelle
+16219;Mellingen Heitersberg;0;0;0;1;1;;0;1;47.4280718007, 8.27633859072;1;Haltestelle
+17336;Luzern Verkehrshaus;0;0;0;0;1;;0;2;47.053927868, 8.33728023957;1;Haltestelle
+16270;Arbon Seemoosriet;0;0;0;0;1;;0;1;47.5215190263, 9.42429272006;1;Haltestelle
+17010;Riehen Niederholz;0;1;0;0;1;;0;0;47.5694725877, 7.63344173885;1;Haltestelle
+16353;Baldegg Kloster;0;0;0;0;0;;0;0;47.1806078267, 8.28057856573;1;Haltestelle
+16350;Buchrain;0;0;0;0;1;;0;1;47.0936431378, 8.35663714452;1;Haltestelle
+17527;Zug Casino;0;0;0;0;1;;0;0;47.1623165875, 8.515186942;1;Haltestelle
+16764;Riehen;0;0;0;0;0;;0;1;47.5831998345, 7.65230105793;1;Haltestelle
+6311;Rorschach;1;1;1;1;1;"Busse fahren ab Rorschach Hauptbahnhof Süd (Bergseite), ab Unterführung mit Lift hoch zur Strasse oder
+5 Min zu Fuss.";0;2;47.4779984016, 9.50513168035;1;Haltestelle_und_Bedienpunkt
+7007;Wichtrach;0;0;0;1;1;Perronhöhe 55cm. PTT-Linie Münsingen-Wichtrach-Kirchdorf ab Bahnhofplatz (290.70);0;0;46.8416089039, 7.56885050668;1;Haltestelle_und_Bedienpunkt
+7100;Thun;1;1;1;1;1;Schlüssel für rollstuhlgängige Toilette ist im Bahnhofbuffet zu beziehen.;0;9;46.7548532939, 7.62959464395;1;Haltestelle_und_Bedienpunkt
+7006;Münsingen;1;1;1;1;1;Postauto, Ortsbus und Tangento fahren ab Bahnhofplatz;0;2;46.8733456586, 7.55942999819;1;Haltestelle
+6313;Rheineck;0;0;1;1;1;Übergang Bahn - Schiff 5 Minuten;0;1;47.4668881391, 9.59090422659;1;Haltestelle
+6317;Heerbrugg;1;1;1;1;1;;0;3;47.4103853071, 9.62724352946;1;Haltestelle_und_Bedienpunkt
+8204;Bowil;0;0;0;0;0;;0;0;46.9000392939, 7.69804937934;1;Haltestelle
+15996;Hünenberg Zythus;0;0;0;0;1;;0;1;47.17360308, 8.45007424526;1;Haltestelle
+8216;Werthenstein;0;0;0;0;1;;0;0;47.0570218141, 8.10185049058;1;Haltestelle
+15994;Zug Fridbach;0;0;0;0;1;;0;1;47.1565775965, 8.51227569316;1;Haltestelle
+9401;Rüthi SG;0;0;0;0;1;;0;0;47.2867324557, 9.53604616419;1;Haltestelle
+9406;Sevelen;0;0;0;0;1;;0;0;47.1253714782, 9.49382469899;1;Haltestelle
+9417;Murg;0;0;0;0;0;;0;1;47.1131764998, 9.21502492933;1;Haltestelle
+18963;Solothurn Allmend;0;0;0;0;0;;1;0;47.2088750961, 7.52142884826;1;Haltestelle
+18475;Mendrisio S.Martino;;;;;;;;;45.8776518954, 8.98302829339;1;Haltestelle
+18749;Lyss Grien;;;;;;;;;47.0730383291, 7.29662192384;1;Haltestelle
+6000;Winterthur;1;1;1;1;1;Geleise am gleichen Perron 2+3, 4+5, 6+7, 8+9;0;11;47.5003335301, 8.72379907332;1;Haltestelle_und_Bedienpunkt
+6015;Räterschen;0;0;0;0;1;;0;0;47.4986756956, 8.79499713285;1;Haltestelle
+5410;Gerra (Gambarogno);0;0;0;1;0;;;0;46.1220435171, 8.784962426;1;Haltestelle
+5404;Cadenazzo;;;;;;;1;;46.1526250436, 8.94168850732;1;Haltestelle_und_Bedienpunkt
+6138;Eschenz;0;0;0;0;1;;0;1;47.6454101495, 8.87653687685;1;Haltestelle_und_Bedienpunkt
+6143;Münsterlingen Spital;0;0;0;0;1;;0;0;47.6320503917, 9.23610817435;1;Haltestelle
+6148;St. Katharinental;0;0;0;0;1;;0;0;47.6875587749, 8.73201759728;1;Haltestelle
+6118;Triboltingen;0;0;0;0;1;;0;0;47.6629006458, 9.10874984287;1;Haltestelle
+6124;Güttingen;0;0;0;0;1;;0;0;47.6087494286, 9.29222710394;1;Haltestelle
+6109;Amriswil;1;1;1;1;1;;0;3;47.5504471564, 9.30221759023;1;Haltestelle
+6137;Mammern;0;0;0;0;1;;0;0;47.6441576694, 8.91398444987;1;Haltestelle
+7008;Kiesen;0;0;0;0;1;Perronhöhe 55cm.;0;0;46.8189418961, 7.57549215033;1;Haltestelle
+8102;Murgenthal;0;0;0;0;0;;0;1;47.2653781303, 7.83209989652;1;Haltestelle_und_Bedienpunkt
+6307;Horn;0;0;0;0;1;;0;2;47.493176824, 9.46337580999;1;Haltestelle_und_Bedienpunkt
+6306;Rorschach Hafen;0;0;1;0;1;;0;2;47.4785940343, 9.49290567677;1;Haltestelle
+6319;Altstätten SG;0;0;1;1;1;;0;1;47.3742291734, 9.55651096481;1;Haltestelle
+8006;Wynigen;0;0;0;0;0;;0;1;47.1051648822, 7.66349632611;1;Haltestelle
+6214;Sitterdorf;0;0;0;0;1;Haltestelle;0;1;47.5052217763, 9.24898518569;1;Haltestelle
+6303;St. Gallen St. Fiden;1;1;0;1;0;;0;2;47.434542034, 9.39342737505;1;Haltestelle_und_Bedienpunkt
+6211;Arnegg;0;0;0;0;1;;0;1;47.4420020412, 9.25200601938;1;Haltestelle_und_Bedienpunkt
+6205;Bazenheid;0;0;0;0;1;;0;1;47.4101281088, 9.06904195327;1;Haltestelle
+6025;Etzwilen;0;0;0;0;1;;0;0;47.6611436806, 8.81859374588;1;Haltestelle_und_Bedienpunkt
+6018;Rickenbach-Attikon;0;0;0;1;1;;0;1;47.5353542711, 8.7891594117;1;Haltestelle
+6038;Winterthur Wallrüti;0;0;0;0;1;;0;1;47.516719, 8.76086862997;1;Haltestelle
+6035;Schottikon;0;0;0;0;1;;0;0;47.500115854, 8.8117058285;1;Haltestelle
+19133;Fribourg/Freiburg Poya;0;0;0;0;1;;0;0;46.8147023081, 7.15543003707;1;Haltestelle
+16444;Kerzers Papiliorama;0;0;0;0;0;;0;0;46.9897702508, 7.19927693136;1;Haltestelle
+16283;Genève Sécheron;0;0;0;0;0;;0;1;46.222435146, 6.14455938175;1;Haltestelle
+15993;Baar Lindenpark;0;0;0;0;1;;0;1;47.1831330124, 8.5170440227;1;Haltestelle
+18452;Prilly-Malley;0;0;0;0;1;;2;0;46.5266893352, 6.60262941596;1;Haltestelle
+15997;Root D4;0;0;0;0;1;;0;0;47.1048571473, 8.37379836133;1;Haltestelle
+9002;Landquart;1;1;1;1;1;Postauto fahren ab Bahnofplatz;0;3;46.9674389764, 9.55402859224;1;Haltestelle_und_Bedienpunkt
+8205;Signau;0;0;0;0;0;Perronhöhe 55cm. AOE Bus ab Bahnhofplatz.;0;0;46.9196288133, 7.72545093078;1;Haltestelle
+8201;Tägertschi;0;0;0;0;1;Perronhöhe 55cm.;0;0;46.8822805305, 7.58083441962;1;Haltestelle
+9418;Mühlehorn;0;0;0;0;1;;0;1;47.1178401962, 9.17300255739;1;Haltestelle_und_Bedienpunkt
+9003;Maienfeld;0;0;0;0;1;;0;1;47.0038340592, 9.52919552142;1;Haltestelle
+9408;Trübbach;0;0;0;1;0;;0;0;47.0715793423, 9.4803298083;1;Haltestelle
+9771;Filzbach, Post;;;;;;;;;47.1205909352, 9.12847444991;1;Haltestelle
+6105;Weinfelden;1;1;1;1;1;Publicar und Taxi vor Personenunterführung, Postauto ab Busbahnhof;0;3;47.5662241626, 9.10634628137;1;Haltestelle_und_Bedienpunkt
+6101;Felben-Wellhausen;0;0;0;0;0;;0;1;47.5771019005, 8.94316091804;1;Haltestelle_und_Bedienpunkt
+6100;Frauenfeld;1;1;1;1;1;;0;5;47.5581599749, 8.89653893491;1;Haltestelle_und_Bedienpunkt
+6107;Erlen;0;0;0;0;1;;0;1;47.5514562601, 9.22619100908;1;Haltestelle_und_Bedienpunkt
+6045;Hettlingen;0;0;0;0;1;;0;1;47.5454376137, 8.69481326415;1;Haltestelle
+6039;Schloss Laufen am Rheinfall;0;0;0;0;0;;0;0;47.6765598478, 8.61424692042;1;Haltestelle
+6004;Kollbrunn;0;0;0;1;0;;0;1;47.4583242963, 8.77399383924;1;Haltestelle
+6024;Stammheim;0;0;0;0;1;;0;1;47.6348793716, 8.78872663664;1;Haltestelle
+6008;Wila;;;;;;;;;47.4177702961, 8.84846779076;1;Haltestelle
+6133;Ermatingen;0;0;0;0;1;Postauto nach Müllheim-Wigoltingen ab Bahnhofplatz;0;1;47.6699950278, 9.08565476022;1;Haltestelle
+6204;Lütisburg;0;0;0;0;1;;0;1;47.3838273619, 9.07067425759;1;Haltestelle_und_Bedienpunkt
+6134;Mannenbach-Salenstein;0;0;0;0;1;;0;0;47.6736499577, 9.05277922071;1;Haltestelle
+6131;Kreuzlingen;1;1;1;1;1;;0;1;47.6525540444, 9.16906514323;1;Haltestelle
+6203;Bütschwil;0;0;0;0;1;;0;1;47.3595914091, 9.07513534617;1;Haltestelle
+6135;Berlingen;0;0;0;0;1;;0;1;47.6732101292, 9.02200129854;1;Haltestelle
+6123;Kesswil;0;0;0;0;1;;0;1;47.5954978156, 9.31740544782;1;Haltestelle
+8203;Zäziwil;0;0;0;0;1;Perronhöhe 55cm.;0;0;46.899744556, 7.66287662343;1;Haltestelle
+9402;Salez-Sennwald;0;0;0;1;1;;0;0;47.2414442444, 9.50232064245;1;Haltestelle_und_Bedienpunkt
+9404;Buchs SG;1;1;1;1;1;;0;3;47.1684089962, 9.47862968189;1;Haltestelle_und_Bedienpunkt
+9411;Sargans;1;1;1;1;1;;0;3;47.0453635269, 9.44539562754;1;Haltestelle_und_Bedienpunkt
+8212;Hasle LU;0;0;0;0;1;;0;0;46.9781486338, 8.04696371624;1;Haltestelle
+9407;Weite;0;0;0;0;1;;0;0;47.0914716434, 9.50160161901;1;Haltestelle
+6207;Schwarzenbach SG;0;0;0;0;1;;0;0;47.4451854709, 9.06841869318;1;Haltestelle_und_Bedienpunkt
+6212;Hauptwil;0;0;0;0;1;;0;1;47.4768608536, 9.25157587262;1;Haltestelle_und_Bedienpunkt
+6312;Staad;0;0;0;0;0;;0;1;47.4807713471, 9.53652077145;1;Haltestelle_und_Bedienpunkt
+6301;St. Gallen Bruggen;0;0;0;0;0;;0;1;47.4072003987, 9.32964579651;1;Haltestelle
+6322;Rorschach Stadt;0;0;0;0;1;;0;2;47.4754476463, 9.48971870021;1;Haltestelle
+6216;Kradolf;0;0;0;0;1;;0;1;47.5247196873, 9.20155757744;1;Haltestelle
+6103;Müllheim-Wigoltingen;0;0;0;0;1;;0;1;47.5881673349, 9.01550138775;1;Haltestelle_und_Bedienpunkt
+6106;Bürglen;0;0;0;0;1;;0;1;47.5491005107, 9.14985544325;1;Haltestelle_und_Bedienpunkt
+6108;Oberaach;0;0;0;0;1;;0;1;47.5532223119, 9.2709268739;1;Haltestelle_und_Bedienpunkt
+6049;Dachsen;0;0;0;1;1;;0;1;47.6670843791, 8.61379705884;1;Haltestelle
+6122;Uttwil;0;0;0;0;1;;0;1;47.5860214293, 9.33968840224;1;Haltestelle
+8001;Schönbühl;0;0;1;0;0;Perronhöhe 55cm.;0;0;47.0189350798, 7.49892392808;1;Haltestelle_und_Bedienpunkt
+8004;Lyssach;0;0;0;0;0;Perronhöhe 55cm.;0;0;47.0637570394, 7.58131288633;1;Haltestelle
+8008;Herzogenbuchsee;1;1;1;0;1;;0;2;47.1880813308, 7.70094642682;1;Haltestelle_und_Bedienpunkt
+8103;Rothrist;0;0;1;0;1;;0;1;47.3064476644, 7.87938648836;1;Haltestelle_und_Bedienpunkt
+18771;Biel/Bienne Bözingenfeld/Champ;0;1;0;0;1;;0;0;47.1583882845, 7.29458712956;1;Haltestelle
+18459;Steinhausen Rigiblick;0;0;0;0;1;;0;0;47.1878937296, 8.47969110761;1;Haltestelle
+15995;Cham Alpenblick;0;0;0;0;1;;0;1;47.1822828869, 8.47144117681;1;Haltestelle
+9414;Walenstadt;0;0;0;0;0;;0;1;47.1198710093, 9.31297181278;1;Haltestelle
+5306;Balerna;0;0;0;0;0;;0;1;45.846756939, 9.00503477094;1;Haltestelle_und_Bedienpunkt
+5401;Tenero;0;0;0;1;0;;0;1;46.1774682553, 8.85022179541;1;Haltestelle
+5406;Magadino-Vira;0;0;0;0;0;;0;1;46.1453223595, 8.85017913795;1;Haltestelle
+5415;S. Antonino;0;0;0;0;0;;0;0;46.1604416733, 8.97392431539;1;Haltestelle
+6002;Winterthur Seen;0;0;0;1;1;;0;1;47.4874349418, 8.76678904042;1;Haltestelle
+6003;Sennhof-Kyburg;0;0;0;0;1;;0;0;47.4651737084, 8.76033034905;1;Haltestelle
+6005;Rikon;0;0;0;0;1;;0;0;47.4450032571, 8.79630774826;1;Haltestelle
+6006;Rämismühle-Zell;0;0;0;0;1;;0;0;47.4415398241, 8.81911811289;1;Haltestelle
+6012;Guntershausen;0;0;0;0;0;;0;1;47.4741351028, 8.91701626605;1;Haltestelle
+6013;Aadorf;0;0;0;0;1;;0;1;47.4881178542, 8.90328450849;1;Haltestelle_und_Bedienpunkt
+6014;Elgg;0;0;1;0;1;;0;1;47.4985287524, 8.86339187202;1;Haltestelle_und_Bedienpunkt
+6019;Islikon;0;0;0;0;1;;0;1;47.5478354373, 8.84618065529;1;Haltestelle_und_Bedienpunkt
+6020;Seuzach;0;0;1;0;1;;0;1;47.5357677342, 8.73886853866;1;Haltestelle
+6042;Pfungen;0;0;0;1;0;;0;1;47.5160332387, 8.64661156441;1;Haltestelle
+6043;Winterthur Wülflingen;0;0;0;0;1;;0;0;47.5064325739, 8.68090851224;1;Haltestelle_und_Bedienpunkt
+6102;Hüttlingen-Mettendorf;0;0;0;0;1;;0;1;47.5823394904, 8.97453911285;1;Haltestelle
+6119;Kurzrickenbach Seepark;0;0;0;0;0;;0;0;47.6430854799, 9.19634957486;1;Haltestelle
+6121;Romanshorn;1;1;1;1;1;;0;3;47.5655269844, 9.37936259732;1;Haltestelle_und_Bedienpunkt
+6128;Kreuzlingen Hafen;0;0;0;0;1;Fussmarsch 10 Minuten zur Schiffsstation;0;1;47.6491676497, 9.18196081638;1;Haltestelle_und_Bedienpunkt
+6210;Gossau SG;1;1;1;1;1;Appenzellerbahnen Umstieg Gleis 11/12;0;3;47.4118296551, 9.25303263655;1;Haltestelle_und_Bedienpunkt
+6213;Bischofszell Stadt;0;0;1;1;1;PTT/AOT Busbetrieb ab Bahnhofplatz (4 Linien);0;1;47.4921416385, 9.24146504156;1;Haltestelle
+6220;Algetshausen-Henau;0;0;0;0;1;;0;0;47.4485422558, 9.10992516036;1;Haltestelle
+6314;St. Margrethen;1;1;1;0;1;Postauto fahren ab dem Bahnhofplatz;0;2;47.4532118157, 9.63825154068;1;Haltestelle_und_Bedienpunkt
+6318;Rebstein-Marbach;0;0;0;0;1;;0;1;47.3926373927, 9.58675061708;1;Haltestelle_und_Bedienpunkt
+7000;Bern;1;1;1;1;1;Züge der RBS fahren im Untergrund bei der Bahnhofhalle;0;27;46.948824497, 7.43911900576;1;Haltestelle
+7005;Rubigen;0;0;1;0;1;Buse fahren vor dem Bahnhof. Münsingen, Konolfingen, Belp. Worb;0;0;46.8991669832, 7.54536675759;1;Haltestelle_und_Bedienpunkt
+7009;Uttigen;0;0;0;1;0;;0;0;46.7943038245, 7.58262070484;1;Haltestelle_und_Bedienpunkt
+8003;Hindelbank;0;0;1;1;0;;0;0;47.0495566966, 7.54540041758;1;Haltestelle_und_Bedienpunkt
+8101;Roggwil-Wynau;0;0;0;0;1;;0;1;47.2516286412, 7.81490475887;1;Haltestelle_und_Bedienpunkt
+8206;Emmenmatt;0;0;0;0;0;;0;0;46.9481501375, 7.74728949511;1;Haltestelle_und_Bedienpunkt
+8210;Escholzmatt;0;0;0;0;1;;0;0;46.9153453481, 7.93636161772;1;Haltestelle
+8218;Malters;0;0;0;0;1;;0;0;47.0385765972, 8.18195273224;1;Haltestelle_und_Bedienpunkt
+8219;Littau;0;0;0;0;0;;0;0;47.0530610496, 8.2570965354;1;Haltestelle
+9400;Oberriet;0;0;0;1;1;;0;0;47.3234789515, 9.57136707107;1;Haltestelle_und_Bedienpunkt
+9412;Mels;0;0;0;0;1;;0;1;47.053743904, 9.41774577748;1;Haltestelle_und_Bedienpunkt
+9416;Unterterzen;0;0;0;0;0;;0;1;47.1138559734, 9.25500777055;1;Haltestelle
+16176;Klingnau;0;0;0;0;1;;0;1;47.5820892736, 8.24881875083;1;Haltestelle
+16187;Zug Schutzengel;0;0;0;0;1;;0;2;47.1737252745, 8.50722421468;1;Haltestelle
+17519;Stabio;0;0;0;0;0;;0;1;45.8497253119, 8.94393965078;1;Haltestelle
+5001;Meggen;0;1;0;0;1;;0;1;47.0501422644, 8.38304450517;1;Haltestelle_und_Bedienpunkt
+4236;Geneveys-sur-Coffrane, Les;0;0;0;0;1;Arret bus VR pour Boudevilliers-(Neuchatel)-Cernier situé à 200m;0;1;47.015085057, 6.85321349712;1;Haltestelle
+4237;Hauts-Geneveys, Les;0;0;0;0;1;Bus VR depart de la place est de la gare;0;1;47.0471709782, 6.87466858452;1;Haltestelle_und_Bedienpunkt
+4314;La Chaux-de-Fonds;1;1;1;1;1;;0;3;47.0977981537, 6.82602846666;1;Haltestelle_und_Bedienpunkt
+4307;Courtelary;0;0;0;0;0;;0;1;47.1756195642, 7.06879653586;1;Haltestelle_und_Bedienpunkt
+4312;Renan BE;0;0;0;0;1;;0;1;47.1257120451, 6.92537048378;1;Haltestelle
+4102;Schmitten;0;0;0;0;1;Busse GFM auf Bahnhofplatz;0;0;46.8629310913, 7.25391537412;1;Haltestelle_und_Bedienpunkt
+4133;Cugy FR;0;0;0;0;1;;0;1;46.8160232571, 6.88916300569;1;Haltestelle_und_Bedienpunkt
+4134;Payerne;0;0;1;1;1;;0;2;46.8196387484, 6.93987910663;1;Haltestelle_und_Bedienpunkt
+4129;Galmiz;0;0;0;0;1;;0;0;46.9508680462, 7.15319870378;1;Haltestelle
+4127;Faoug;0;0;0;0;0;;0;1;46.9082315978, 7.07459265792;1;Haltestelle
+4104;Thörishaus Station;0;0;0;0;1;;;0;46.9046192361, 7.35702398811;1;Haltestelle_und_Bedienpunkt
+4219;Auvernier;0;0;0;0;0;Accès au quai sans escalier (rampe ou ascenseur) que pour le quai 1;0;1;46.9796312118, 6.87770603996;1;Haltestelle
+4223;Cornaux;0;0;0;0;0;;0;1;47.0385599223, 7.0233637328;1;Haltestelle_und_Bedienpunkt
+4229;Tüscherz;0;0;0;0;0;;0;1;47.1149950289, 7.19730481483;1;Haltestelle
+4228;Twann;0;0;0;0;0;;0;1;47.0936555927, 7.15649171643;1;Haltestelle
+5111;Sisikon;0;0;0;1;0;;0;0;46.9492536033, 8.62073068694;1;Haltestelle
+5202;Ambrì-Piotta;;;;;;;;;46.510616719, 8.69015147937;1;Haltestelle
+6300;St. Gallen Winkeln;0;0;0;0;1;VBSG-Haltestelle ca. 150m vom Bahnhof;0;1;47.4039256735, 9.30083970711;1;Haltestelle_und_Bedienpunkt
+6215;Bischofszell Nord;0;0;0;1;1;;0;1;47.5004169871, 9.23401945255;1;Haltestelle_und_Bedienpunkt
+8005;Burgdorf;1;1;1;1;1;;0;4;47.0606957305, 7.62168894507;1;Haltestelle_und_Bedienpunkt
+6308;Arbon;0;0;1;1;1;;0;2;47.5105854479, 9.43333858591;1;Haltestelle_und_Bedienpunkt
+6217;Sulgen;0;0;0;0;0;;0;1;47.5387993681, 9.18367857671;1;Haltestelle_und_Bedienpunkt
+6316;Au SG;0;0;0;0;1;;0;1;47.4361134139, 9.64124454757;1;Haltestelle_und_Bedienpunkt
+6304;Mörschwil;0;0;1;1;0;;0;1;47.4747707737, 9.41437284119;1;Haltestelle
+6309;Egnach;0;0;0;0;1;;0;1;47.5439914495, 9.38300007743;1;Haltestelle
+9000;Chur;1;1;1;1;1;Postautostation per Rolltreppe und Lift erreichbar.;0;6;46.8530797552, 9.52892561961;1;Haltestelle_und_Bedienpunkt
+8217;Schachen LU;0;0;0;0;1;keine schienenfreien Zugänge;0;0;47.0379660567, 8.1432466759;1;Haltestelle_und_Bedienpunkt
+8100;Langenthal;1;1;1;0;1;;0;3;47.2173003777, 7.78470885276;1;Haltestelle_und_Bedienpunkt
+8200;Worb SBB;0;0;0;0;0;;0;0;46.9152218276, 7.56483999982;1;Haltestelle_und_Bedienpunkt
+8208;Trubschachen;0;0;0;0;1;;0;0;46.9216924283, 7.84613113265;1;Haltestelle
+8213;Entlebuch;0;0;0;0;1;;0;0;46.9936910245, 8.06235072562;1;Haltestelle
+8695;Grasswil, Post;;;;;;;;;47.1460754455, 7.66716135321;1;Haltestelle
+9004;Bad Ragaz;0;1;1;1;1;Postautos fahren ab Bahnhofplatz;0;1;47.0103066077, 9.50521579767;1;Haltestelle
+9413;Flums;0;1;1;0;0;;0;1;47.0966128468, 9.34791662857;1;Haltestelle_und_Bedienpunkt
+16218;Winterthur Hegi;0;0;0;0;1;;0;1;47.5015644748, 8.76930571536;1;Haltestelle
+9405;Räfis-Burgerau;0;0;0;0;1;;0;0;47.1499462602, 9.48516673222;1;Haltestelle
+15992;Baar Neufeld;0;0;0;0;1;;0;1;47.1884876743, 8.51775897551;1;Haltestelle
+9415;Mols;0;0;0;0;0;;0;1;47.1129874927, 9.27680343664;1;Haltestelle
+9852;Obstalden, Post;;;;;;;;;47.1175812114, 9.14946758658;1;Haltestelle
+6139;Stein am Rhein;0;0;1;0;1;Gleis 3 Unterführung, steile Rampe;0;2;47.656108874, 8.85500693112;1;Haltestelle
+6209;Flawil;1;1;1;1;1;;0;2;47.4151898192, 9.1897661689;1;Haltestelle_und_Bedienpunkt
+6046;Henggart;0;0;0;0;1;;0;1;47.5642523105, 8.68505196166;1;Haltestelle_und_Bedienpunkt
+6044;Winterthur Töss;0;0;0;0;1;;0;1;47.4898075094, 8.70929159585;1;Haltestelle
+6009;Saland;0;0;0;0;1;;0;0;47.3942126094, 8.85420315671;1;Haltestelle_und_Bedienpunkt
+6017;Wiesendangen;0;0;0;0;1;;0;0;47.5255401974, 8.77601496118;1;Haltestelle
+6021;Dinhard;0;0;0;0;1;;0;0;47.5533468989, 8.75295793686;1;Haltestelle
+5204;Faido;0;0;0;0;0;;0;1;46.48307671, 8.79070214577;1;Haltestelle
+6027;Ramsen;;;;;;;;;47.707435847, 8.8211461179;1;Haltestelle
+16271;Steinach;0;0;0;0;1;;0;1;47.5008611902, 9.44212099652;1;Haltestelle

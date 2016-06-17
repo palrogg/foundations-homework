@@ -1,10 +1,10 @@
 What was problematic:
 
-1. In both data sets:
+1) In both data sets:
 
 * I had to understand the documentation in german, then to translate the columns in english
 
-2. Stations and frequency:
+2) Stations and frequency:
 
 * To use regular expressions, I had to type: `df[df['Station'].str.match('^A')]`
 
@@ -12,7 +12,7 @@ What was problematic:
 
 * I had to figure out how to avoid the error “A value is trying to be set on a copy of a slice from a DataFrame.”
 
-3. Equipment for disabled people:
+3) Equipment for disabled people:
 
 * This data set sounded much more interesting than it actually was.
 

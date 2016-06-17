@@ -1,18 +1,18 @@
 What was problematic:
 
-* in both data sets:
+1. In both data sets:
 
-** I had to understand the documentation in german, then to translate the columns in english.
+* I had to understand the documentation in german, then to translate the columns in english
 
-* Stations and frequency:
+2. Stations and frequency:
 
-** Use regular expressions
+* To use regular expressions, I had to type: `df[df['Station'].str.match('^A')]`
 
-** “A value is trying to be set on a copy of a slice from a DataFrame.” -> df.loc
+* I had to learn how to use a condition when creating a new column: `df['automat_ktu'].apply(automat)`
 
-** df['automat_ktu'].apply(automat)
+* I had to figure out how to avoid the error “A value is trying to be set on a copy of a slice from a DataFrame.”
 
-* Equipment for disabled people:
+3. Equipment for disabled people:
 
-** This data set sounded much more interesting than it actually was.
+* This data set sounded much more interesting than it actually was.
 

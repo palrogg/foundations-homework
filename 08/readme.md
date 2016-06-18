@@ -1,4 +1,4 @@
-What was problematic:
+What was problematic or confusing:
 
 1) In both data sets:
 
@@ -14,5 +14,5 @@ What was problematic:
 
 3) Equipment for disabled people:
 
-* This data set sounded much more interesting than it actually was.
+* Changing the graphs layout with the `gcf()` function (get current figure) is a bit confusing.
 

@@ -1,0 +1,1 @@
+Python functions weren't new to me, but working with this earthquake data was interesting. I hope we'll have a look at classes :)

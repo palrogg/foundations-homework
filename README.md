@@ -19,6 +19,9 @@ This repository contains exercises for the [“Lede 12”](https://github.com/le
 9. Python (≠Jupyter), Quakebot; `def`, `getPOSIX()`
 10. “Scraping and Saving” (Scraper.py, Mailer.py, `crontab -e`)
 11. Parking violations (985 MB CSV)
+12. (No exercise)
+13. Date index: `resample`, `df.groupby`
+14. Term Frequency-Inverse Document Frequency!
 
 ### Data & databases
 
@@ -28,6 +31,7 @@ This repository contains exercises for the [“Lede 12”](https://github.com/le
 4. List slices, `[sqrt(i) for i in numbers if i < 100]`, parse menu using regexp
 5. Insert with pg8000: cat-cafes
 6. Web Application using Flask (lakes)
+7. (Twitter bot - sent via email)
 
 ## Interesting facts
 

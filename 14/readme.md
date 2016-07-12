@@ -1,4 +1,4 @@
-Very interesting exercise. I tried such a text analysis directly with NLTK two weeks ago: much more complicated, much worse result.
+Very instructive exercise. I tried such a rough text analysis directly with NLTK two weeks ago: much more complicated, much worse result.
 
 ##Methods to remember:
 

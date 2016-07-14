@@ -1,0 +1,3 @@
+Grade: 10 / 10
+
+Nice! I like that you queried the database using a separate function -- it made your code easier to follow!

@@ -33,6 +33,11 @@ This repository contains exercises for the [“Lede 12”](https://github.com/le
 6. Web Application using Flask (lakes)
 7. (Twitter bot - sent via email)
 
+### Algorithms
+
+
+
+
 ## Interesting facts
 
 Good kinds of pancakes:
